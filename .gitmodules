@@ -1,0 +1,3 @@
+[submodule "IAB"]
+	path = IAB
+	url = https://github.com/InteractiveAdvertisingBureau/VAST_Samples.git
