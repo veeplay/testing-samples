@@ -1,0 +1,21 @@
+<!-- VAST document with one Wrapper ad -->
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST version="3.0">
+  <Ad id="602833">
+    <Wrapper>
+      <AdSystem>Acudeo Compatible</AdSystem>
+      <VASTAdTagURI>https://raw.githubusercontent.com/InteractiveAdvertisingBureau/VAST_Samples/242b839d196fe0a3f798b43011948da131007938/VAST%203.0%20Samples/Inline_Linear_Tag-test.xml</VASTAdTagURI>
+      <Error>http://myTrackingURL/error</Error>
+      <Impression>http://myTrackingURL/wrapper/impression</Impression>
+      <Creatives>
+        <Creative AdID="602833">
+          <Linear>
+            <TrackingEvents>
+              <Tracking event="start">http://myTrackingURL/wrapper/startVideo</Tracking>
+            </TrackingEvents>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </Wrapper>
+  </Ad>
+</VAST>
