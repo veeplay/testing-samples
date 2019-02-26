@@ -1,0 +1,28 @@
+{
+  "content": [
+    {
+      "url": "https://s3.eu-central-1.amazonaws.com/com.veeplay.samples/progressive/Sintel.2010.4kHD-MP4.mp4",
+      "autoplay": true,
+      "minimumAdInitialOffset": 0,
+      "minimumAdFinalOffset": 0,
+      "minimumAdSpacing": 0,
+      "seekAdHandling": "last"
+    }
+  ],
+  "ads": {
+    "adBreaks": {
+      "midContent": [
+        {
+          "offset": "00:00:05",
+          "urls": [
+            "https://raw.githubusercontent.com/veeplay/testing-samples/master/Veeplay/Ads/Gillette_Soccer_PreRoll_DE.xml"
+          ]
+        }
+      ]
+    },
+    "afterVideoAdTapped": "doNothing",
+    "countdown": {
+      "text": "-w- noch __remaining__s"
+    }
+  }
+}
