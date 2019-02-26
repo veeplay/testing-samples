@@ -8,6 +8,11 @@
 
 - https://s3.eu-central-1.amazonaws.com/com.veeplay.samples/ads/141217_Philips_HueLightning_20s_neu.mp4
 - https://s3.eu-central-1.amazonaws.com/com.veeplay.samples/ads/Gillette_Soccer_PreRoll_DE.mp4
+- https://s3.eu-central-1.amazonaws.com/com.veeplay.samples/ads/010314_Ferrero_TT_CU_SWB_Mix2_1171313_15s.mp4
+- https://s3.eu-central-1.amazonaws.com/com.veeplay.samples/ads/140206_Opel_GnT_Opener_7Sek.mp4
+- https://s3.eu-central-1.amazonaws.com/com.veeplay.samples/ads/140306_Maggi_JellyPaprika_20s.mp4
+- https://s3.eu-central-1.amazonaws.com/com.veeplay.samples/ads/140513_DB_Siegerbahncard_20sec_110371.mp4
+- https://s3.eu-central-1.amazonaws.com/com.veeplay.samples/ads/werb_4359_hexal_acc_akut_779108_30s.mp4
 
 ### MP4 progressive (for ads / content unit testing)
 
