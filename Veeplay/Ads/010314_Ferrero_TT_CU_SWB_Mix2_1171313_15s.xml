@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST version="2.0">
+    <Ad id="166172781-112983501-39637231941">
+        <!-- 001 Video VAST 2.0 - Instream-Typ -->
+        <InLine>
+            <AdSystem><![CDATA[dfp]]></AdSystem>
+            <AdTitle><![CDATA[20x1 - Ferrero TicTac SWB Mix im Mix2 TV-Brand MR 20s(15s)6739011 bis 20.04 LN orderId=166172781 lineItemId=112983501 creativeId=39637231941]]></AdTitle>
+            <Description><![CDATA[]]></Description>
+            <Error><![CDATA[http://event.movad.de/c.ount?et=66&ad=2&ci=112983501&c10=39637231941&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=178345539]]></Error>
+            <Impression id="intern"><![CDATA[http://pubads.g.doubleclick.net/pagead/adview?ai=BYbW-wvxVVaOpBcqh8wOfxoPIDoXd6PwDAAAAEAEgADgAWMXSwNSTAWCDpeGF6BuCARdjYS1wdWItMzY1OTM0OTE1MDEyMDUzNbIBGHd3dy5kY2xrLWRlZmF1bHQtcmVmLmNvbboBCWdmcF9pbWFnZcgBCdoBIGh0dHA6Ly93d3cuZGNsay1kZWZhdWx0LXJlZi5jb20vqQIuKp7FVgGzPsACAuACAOoCEjU3MzEvc2hvd3Jvb20vdGVzdPgC8tEekAOEB5gDyAaoAwHQBJBO4AQBkAYBoAYf2AcA&sigh=wwtKqcKOPKs&cid=5GiJbna4ik7AAlGIl5OAKDl8&template_id=10036821&adurl=]]></Impression>
+            <Impression id="movad"><![CDATA[http://event.movad.de/c.ount?et=1&ad=2&ci=112983501&c10=39637231941&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=178345539]]></Impression>
+            <Impression id="3rdparty"><![CDATA[http://ad.71i.de/blind.gif?imp_ferrero_20x1&t=178345539]]></Impression>
+            <Impression id="3rdparty2"><![CDATA[]]></Impression>
+            <Impression id="bfp"><![CDATA[http://ad.71i.de/blind.gif?audience_ferrero_20x1&t=178345539]]></Impression>
+            <Impression id="mafo1"><![CDATA[http://ad.71i.de/blind.gif?mafo_ferrero_20x1&t=178345539]]></Impression>
+            <Creatives>
+                <Creative>
+                    <Linear>
+                        <Duration><![CDATA[00:00:15]]></Duration>
+                        <TrackingEvents>
+                            <Tracking event="start"><![CDATA[http://event.movad.de/c.ount?et=10&ad=2&ci=112983501&c10=39637231941&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=178345539]]></Tracking>
+                            <Tracking event="start"><![CDATA[http://ad.71i.de/blind.gif?start_ferrero_20x1&t=178345539]]></Tracking>
+                            <Tracking event="firstQuartile"><![CDATA[http://event.movad.de/c.ount?et=32&ad=2&ci=112983501&c10=39637231941&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=178345539]]></Tracking>
+                            <Tracking event="firstQuartile"><![CDATA[http://ad.71i.de/blind.gif?25_ferrero_20x1&t=178345539]]></Tracking>
+                            <Tracking event="midpoint"><![CDATA[http://event.movad.de/c.ount?et=35&ad=2&ci=112983501&c10=39637231941&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=178345539]]></Tracking>
+                            <Tracking event="midpoint"><![CDATA[http://ad.71i.de/blind.gif?50_ferrero_20x1&t=178345539]]></Tracking>
+                            <Tracking event="thirdQuartile"><![CDATA[http://event.movad.de/c.ount?et=37&ad=2&ci=112983501&c10=39637231941&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=178345539]]></Tracking>
+                            <Tracking event="thirdQuartile"><![CDATA[http://ad.71i.de/blind.gif?75_ferrero_20x1&t=178345539]]></Tracking>
+                            <Tracking event="complete"><![CDATA[http://event.movad.de/c.ount?et=40&ad=2&ci=112983501&c10=39637231941&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=178345539]]></Tracking>
+                            <Tracking event="complete"><![CDATA[http://ad.71i.de/blind.gif?100_ferrero_20x1&t=178345539]]></Tracking>
+                            <Tracking event="mute"><![CDATA[http://event.movad.de/c.ount?et=14&ad=2&ci=112983501&c10=39637231941&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=178345539]]></Tracking>
+                            <Tracking event="mute"><![CDATA[http://ad.71i.de/blind.gif?mute_ferrero_20x1&t=178345539]]></Tracking>
+                            <Tracking event="unmute"><![CDATA[http://event.movad.de/c.ount?et=15&ad=2&ci=112983501&c10=39637231941&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=178345539]]></Tracking>
+                            <Tracking event="unmute"><![CDATA[http://ad.71i.de/blind.gif?unmute_ferrero_20x1&t=178345539]]></Tracking>
+                            <Tracking event="fullscreen"><![CDATA[http://event.movad.de/c.ount?et=16&ad=2&ci=112983501&c10=39637231941&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=178345539]]></Tracking>
+                            <Tracking event="fullscreen"><![CDATA[http://ad.71i.de/blind.gif?fullscreen_ferrero_20x1&t=178345539]]></Tracking>
+                            <Tracking event="pause"><![CDATA[http://event.movad.de/c.ount?et=11&ad=2&ci=112983501&c10=39637231941&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=178345539]]></Tracking>
+                            <Tracking event="pause"><![CDATA[http://ad.71i.de/blind.gif?pause_ferrero_20x1&t=178345539]]></Tracking>
+                            <Tracking event="expand"><![CDATA[http://event.movad.de/c.ount?et=3&ad=2&ci=112983501&c10=39637231941&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=178345539]]></Tracking>
+                            <Tracking event="collapse"><![CDATA[http://event.movad.de/c.ount?et=4&ad=2&ci=112983501&c10=39637231941&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=178345539]]></Tracking>
+                            <Tracking event="close"><![CDATA[http://event.movad.de/c.ount?et=4&ad=2&ci=112983501&c10=39637231941&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=178345539]]></Tracking>
+                            <Tracking event="acceptInvitation"><![CDATA[http://event.movad.de/c.ount?et=20&ad=2&ci=112983501&c10=39637231941&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=178345539]]></Tracking>
+                        </TrackingEvents>
+                        <VideoClicks>
+                            <ClickThrough><![CDATA[http://adclick.g.doubleclick.net/aclk?sa=L&ai=BYbW-wvxVVaOpBcqh8wOfxoPIDoXd6PwDAAAAEAEgADgAWMXSwNSTAWCDpeGF6BuCARdjYS1wdWItMzY1OTM0OTE1MDEyMDUzNbIBGHd3dy5kY2xrLWRlZmF1bHQtcmVmLmNvbboBCWdmcF9pbWFnZcgBCdoBIGh0dHA6Ly93d3cuZGNsay1kZWZhdWx0LXJlZi5jb20vqQIuKp7FVgGzPsACAuACAOoCEjU3MzEvc2hvd3Jvb20vdGVzdPgC8tEekAOEB5gDyAaoAwHQBJBO4AQBkAYBoAYf2AcA&num=0&cid=5GiJbna4ik7AAlGIl5OAKDl8&sig=AOD64_2CqyXAirCIDZykF62V-Eev-ApH2A&client=ca-pub-3659349150120535&adurl=http://www.tictac.de]]></ClickThrough>
+                            <ClickTracking id="movad"><![CDATA[http://event.movad.de/c.ount?et=2&ad=2&ci=112983501&c10=39637231941&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=178345539]]></ClickTracking>
+                            <ClickTracking id="3rdparty"><![CDATA[http://ad.71i.de/blind.gif?click_ferrero_20x1&t=178345539]]></ClickTracking>
+                        </VideoClicks>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" bitrate="400" width="0" height="0" type="video/x-flv"><![CDATA[http://ad.71i.de/images/ferrero/2014/TT_CU/010314_Ferrero_TT_CU_SWB_Mix2_1171313_15s.flv]]></MediaFile>
+                            <MediaFile delivery="progressive" bitrate="400" width="0" height="0" type="video/mp4"><![CDATA[https://s3.eu-central-1.amazonaws.com/com.veeplay.samples/ads/010314_Ferrero_TT_CU_SWB_Mix2_1171313_15s.mp4]]></MediaFile>
+                            <MediaFile delivery="progressive" bitrate="400" width="830" height="467" type="mobile/m3u8"><![CDATA[http://ad.71i.de/images/ferrero/2014/TT_CU/010314_Ferrero_TT_CU_SWB_Mix2_1171313_15s.m3u8]]></MediaFile>
+                            <MediaFile delivery="progressive" bitrate="400" width="830" height="467" type="application/x-mpegURL"><![CDATA[http://ad.71i.de/images/ferrero/2014/TT_CU/010314_Ferrero_TT_CU_SWB_Mix2_1171313_15s.m3u8]]></MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+            <Extensions>
+                <Extension type="dfp">
+                    <AdServingData>
+                        <Industry><![CDATA[]]></Industry>
+                    </AdServingData>
+                </Extension>
+            </Extensions>
+        </InLine>
+    </Ad>
+</VAST>
