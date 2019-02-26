@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VAST version="2.0">
+	<Ad id="602678">
+		<InLine>
+			<AdSystem>Acudeo Compatible</AdSystem>
+			<AdTitle>NonLinear Test Campaign 1</AdTitle>
+			<Description>NonLinear Test Campaign 1</Description>
+			<Survey>http://mySurveyURL/survey</Survey>
+			<Error>http://myErrorURL/error</Error>
+			<Impression>http://myTrackingURL/impression</Impression>
+			<Creatives>
+				<Creative AdID="602678-NonLinear">
+					<NonLinearAds>
+						<TrackingEvents>
+							<Tracking event="creativeView">http://myTrackingURL/nonlinear/creativeView</Tracking>
+							<Tracking event="expand">http://myTrackingURL/nonlinear/expand</Tracking>
+							<Tracking event="collapse">http://myTrackingURL/nonlinear/collapse</Tracking>
+							<Tracking event="acceptInvitation">http://myTrackingURL/nonlinear/acceptInvitation</Tracking>
+							<Tracking event="close">http://myTrackingURL/nonlinear/close</Tracking>
+						</TrackingEvents>
+						<NonLinear height="50" width="300" minSuggestedDuration="00:00:15">
+							<HTMLResource>
+							   <![CDATA[
+							   <html xmlns="http://www.w3.org/1999/xhtml">
+								  <head>
+									<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+									<title>VAST 2.0 Video Ad with external companion ad example</title>
+										<script language="JavaScript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script>
+										<script language="JavaScript" src="http://admin.brightcove.com/js/APIModules_all.js"></script>
+										<script language="JavaScript"> 
+									// This JS function is called by the Video Cloud Player when it encounters Companion Ads
+									// in a VAST 2.0 response
+									function bcsyncroadblock(adXML){
+										var companionAds = getXMLDoc(adXML);
+										//Get the Iframe snippet
+										var companionAd = companionAds.getElementsByTagName('Companion')[0];
+										var iFrameAd = companionAd.getElementsByTagName('IFrameResource')[0].firstChild.nodeValue;
+										var companionAdDiv = document.getElementById("companionAd");
+
+										// Add the IFrame to the page
+										companionAdDiv.innerHTML = '<iframe src="' + iFrameAd + '"></iframe>';
+									 }
+
+									   // Loads adXML as XML.
+									   function getXMLDoc(pXML){
+											var adXML;
+											if (window.ActiveXObject){ //parses the XML for IE browsers
+											   adXML = new ActiveXObject("Microsoft.XMLDOM");
+											   adXML.async = false; adXML.loadXML(pXML);
+											} else //parses the XML for Mozilla browsers
+											if (window.XMLHttpRequest) {
+												adXML = (new DOMParser()).parseFromString(pXML, "text/xml");
+											}
+											return adXML;
+										}
+									</script>
+								 
+									<style type="text/css">
+									// CSS is used to place the Ad right next to the player.
+									#companionAd {
+									position:absolute;
+									top:120px;
+									left:520px;
+									width:300px;
+									height:250px;
+									border:dotted; }
+									</style>
+								  </head>
+								<body>
+
+								<!-- Start of Brightcove Player -->
+
+								<p>VAST video ad with an external companion Ad.</p>
+								<div style="display:none"> </div>
+								<!-- By use of this code snippet, I agree to the Brightcove Publisher T and C
+								found at http://corp.brightcove.com/legal/terms_publisher.cfm. -->
+
+								<object id="myExperience" class="BrightcoveExperience">
+								<param name="bgcolor" value="#FFFFFF" />
+								<param name="width" value="486" />
+								<param name="height" value="412" />
+								<param name="playerID" value="yourPlayerID" />
+								<param name="@videoPlayer" value="yourVideoID" />
+								<param name="publisherID" value="yourPublisherID"/>
+								<param name="isVid" value="true" /> </object>
+								<!-- End of Brightcove Player -->
+								<div id='companionAd'> An Ad will display here</div>
+								<!-- End of Brightcove Player -->
+								</body>
+								</html>
+							   ]]>
+							 </HTMLResource>
+							<NonLinearClickThrough>http://www.appscend.com</NonLinearClickThrough>
+						</NonLinear>
+					</NonLinearAds>
+				</Creative>
+			</Creatives>
+		</InLine>
+	</Ad>
+</VAST>
