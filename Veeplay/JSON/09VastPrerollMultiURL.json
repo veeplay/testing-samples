@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "url": "https://s3.eu-central-1.amazonaws.com/com.veeplay.samples/progressive/Sintel.2010.4kHD-MP4.mp4",
+      "autoplay": true,
+      "minimumAdInitialOffset": 600,
+      "minimumAdFinalOffset": 600,
+      "minimumAdSpacing": 600,
+      "seekAdHandling": "last"
+    }
+  ],
+  "ads": {
+    "adBreaks": {
+      "preContent": [
+        {
+          "urls": [
+            "https://raw.githubusercontent.com/veeplay/testing-samples/master/Veeplay/Ads/140206_Opel_GnT_Opener_7Sek.xml",
+            "https://raw.githubusercontent.com/veeplay/testing-samples/master/Veeplay/Ads/010314_Ferrero_TT_CU_SWB_Mix2_1171313_15s.xml"
+          ]
+        }
+      ]
+    },
+    "afterVideoAdTapped": "doNothing",
+    "multiAdConflictPolicy": "first",
+    "countdown": {
+      "text": "-w- noch __remaining__s"
+    }
+  }
+}
