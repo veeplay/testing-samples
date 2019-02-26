@@ -14,7 +14,7 @@
 				},
 				"type": "image",
 				"position": "fullscreen", 
-				"start": "-1",
+				"start": "0",
 				"end": "0",
 				"zIndex": 1, 
 				"parameters": {
