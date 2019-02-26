@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VAST version="2.0">
+	<Ad id="602678">
+		<InLine>
+			<AdSystem>Acudeo Compatible</AdSystem>
+			<AdTitle>NonLinear Test Campaign 1</AdTitle>
+			<Description>NonLinear Test Campaign 1</Description>
+			<Survey>http://mySurveyURL/survey</Survey>
+			<Error>http://myErrorURL/error</Error>
+			<Impression>http://myTrackingURL/impression</Impression>
+			<Creatives>
+				<Creative AdID="602678-NonLinear">
+					<NonLinearAds>
+						<TrackingEvents>
+							<Tracking event="creativeView">http://myTrackingURL/nonlinear/creativeView</Tracking>
+							<Tracking event="expand">http://myTrackingURL/nonlinear/expand</Tracking>
+							<Tracking event="collapse">http://myTrackingURL/nonlinear/collapse</Tracking>
+							<Tracking event="acceptInvitation">http://myTrackingURL/nonlinear/acceptInvitation</Tracking>
+							<Tracking event="close">http://myTrackingURL/nonlinear/close</Tracking>
+						</TrackingEvents>
+						<NonLinear height="50" width="300" minSuggestedDuration="00:00:15">
+							<StaticResource creativeType="image/jpeg">
+								https://raw.githubusercontent.com/veeplay/testing-samples/master/Veeplay/Ads/images/50x300_static.jpg
+							</StaticResource>
+							<NonLinearClickThrough>http://veeplay.com/</NonLinearClickThrough>
+						</NonLinear>
+					</NonLinearAds>
+				</Creative>
+			</Creatives>
+		</InLine>
+	</Ad>
+</VAST>
