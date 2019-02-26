@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST version="2.0">
+    <Ad id="166172781-112986981-39637293861">
+        <!-- 001 Video VAST 2.0 - Instream-Typ -->
+        <InLine>
+            <AdSystem><![CDATA[dfp]]></AdSystem>
+            <AdTitle><![CDATA[20x1 - hexal_acc Mue_Ham RON PreMid MR fs orderId=166172781 lineItemId=112986981 creativeId=39637293861]]></AdTitle>
+            <Description><![CDATA[]]></Description>
+            <Error><![CDATA[http://event.movad.de/c.ount?et=66&ad=2&ci=112986981&c10=39637293861&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1460864106]]></Error>
+            <Impression id="intern"><![CDATA[http://pubads.g.doubleclick.net/pagead/adview?ai=Bm1I1R_xVVbDHHIr-8QOSsoDYBN3h6PwDAAAAEAEgADgAWKW2xNSTAWCDpeGF6BuCARdjYS1wdWItMzY1OTM0OTE1MDEyMDUzNbIBGHd3dy5kY2xrLWRlZmF1bHQtcmVmLmNvbboBCWdmcF9pbWFnZcgBCdoBIGh0dHA6Ly93d3cuZGNsay1kZWZhdWx0LXJlZi5jb20vqQIuKp7FVgGzPsACAuACAOoCEjU3MzEvc2hvd3Jvb20vdGVzdPgC8tEekAOEB5gDyAaoAwHQBJBO4AQBkAYBoAYf2AcA&sigh=JmXYWyzxCu4&cid=5GibQ18mARvBAzsPBscMNNKS&template_id=10036821&adurl=]]></Impression>
+            <Impression id="movad"><![CDATA[http://event.movad.de/c.ount?et=1&ad=2&ci=112986981&c10=39637293861&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1460864106]]></Impression>
+            <Impression id="3rdparty"><![CDATA[http://ad.71i.de/blind.gif?imp_hexal_20x1&t=1460864106]]></Impression>
+            <Impression id="3rdparty2"><![CDATA[]]></Impression>
+            <Impression id="bfp"><![CDATA[http://ad.71i.de/blind.gif?audience_hexal_20x1&t=1460864106]]></Impression>
+            <Impression id="mafo1"><![CDATA[http://ad.71i.de/blind.gif?mafo_hexal_20x1&t=1460864106]]></Impression>
+            <Creatives>
+                <Creative>
+                    <Linear>
+                        <Duration><![CDATA[00:00:30]]></Duration>
+                        <TrackingEvents>
+                            <Tracking event="start"><![CDATA[http://event.movad.de/c.ount?et=10&ad=2&ci=112986981&c10=39637293861&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1460864106]]></Tracking>
+                            <Tracking event="start"><![CDATA[http://ad.71i.de/blind.gif?start_hexal_20x1&t=1460864106]]></Tracking>
+                            <Tracking event="firstQuartile"><![CDATA[http://event.movad.de/c.ount?et=32&ad=2&ci=112986981&c10=39637293861&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1460864106]]></Tracking>
+                            <Tracking event="firstQuartile"><![CDATA[http://ad.71i.de/blind.gif?25_hexal_20x1&t=1460864106]]></Tracking>
+                            <Tracking event="midpoint"><![CDATA[http://event.movad.de/c.ount?et=35&ad=2&ci=112986981&c10=39637293861&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1460864106]]></Tracking>
+                            <Tracking event="midpoint"><![CDATA[http://ad.71i.de/blind.gif?50_hexal_20x1&t=1460864106]]></Tracking>
+                            <Tracking event="thirdQuartile"><![CDATA[http://event.movad.de/c.ount?et=37&ad=2&ci=112986981&c10=39637293861&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1460864106]]></Tracking>
+                            <Tracking event="thirdQuartile"><![CDATA[http://ad.71i.de/blind.gif?75_hexal_20x1&t=1460864106]]></Tracking>
+                            <Tracking event="complete"><![CDATA[http://event.movad.de/c.ount?et=40&ad=2&ci=112986981&c10=39637293861&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1460864106]]></Tracking>
+                            <Tracking event="complete"><![CDATA[http://ad.71i.de/blind.gif?100_hexal_20x1&t=1460864106]]></Tracking>
+                            <Tracking event="mute"><![CDATA[http://event.movad.de/c.ount?et=14&ad=2&ci=112986981&c10=39637293861&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1460864106]]></Tracking>
+                            <Tracking event="mute"><![CDATA[http://ad.71i.de/blind.gif?mute_hexal_20x1&t=1460864106]]></Tracking>
+                            <Tracking event="unmute"><![CDATA[http://event.movad.de/c.ount?et=15&ad=2&ci=112986981&c10=39637293861&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1460864106]]></Tracking>
+                            <Tracking event="unmute"><![CDATA[http://ad.71i.de/blind.gif?unmute_hexal_20x1&t=1460864106]]></Tracking>
+                            <Tracking event="fullscreen"><![CDATA[http://event.movad.de/c.ount?et=16&ad=2&ci=112986981&c10=39637293861&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1460864106]]></Tracking>
+                            <Tracking event="fullscreen"><![CDATA[http://ad.71i.de/blind.gif?fullscreen_hexal_20x1&t=1460864106]]></Tracking>
+                            <Tracking event="pause"><![CDATA[http://event.movad.de/c.ount?et=11&ad=2&ci=112986981&c10=39637293861&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1460864106]]></Tracking>
+                            <Tracking event="pause"><![CDATA[http://ad.71i.de/blind.gif?pause_hexal_20x1&t=1460864106]]></Tracking>
+                            <Tracking event="expand"><![CDATA[http://event.movad.de/c.ount?et=3&ad=2&ci=112986981&c10=39637293861&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1460864106]]></Tracking>
+                            <Tracking event="collapse"><![CDATA[http://event.movad.de/c.ount?et=4&ad=2&ci=112986981&c10=39637293861&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1460864106]]></Tracking>
+                            <Tracking event="close"><![CDATA[http://event.movad.de/c.ount?et=4&ad=2&ci=112986981&c10=39637293861&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1460864106]]></Tracking>
+                            <Tracking event="acceptInvitation"><![CDATA[http://event.movad.de/c.ount?et=20&ad=2&ci=112986981&c10=39637293861&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1460864106]]></Tracking>
+                        </TrackingEvents>
+                        <VideoClicks>
+                            <ClickThrough><![CDATA[http://adclick.g.doubleclick.net/aclk?sa=L&ai=Bm1I1R_xVVbDHHIr-8QOSsoDYBN3h6PwDAAAAEAEgADgAWKW2xNSTAWCDpeGF6BuCARdjYS1wdWItMzY1OTM0OTE1MDEyMDUzNbIBGHd3dy5kY2xrLWRlZmF1bHQtcmVmLmNvbboBCWdmcF9pbWFnZcgBCdoBIGh0dHA6Ly93d3cuZGNsay1kZWZhdWx0LXJlZi5jb20vqQIuKp7FVgGzPsACAuACAOoCEjU3MzEvc2hvd3Jvb20vdGVzdPgC8tEekAOEB5gDyAaoAwHQBJBO4AQBkAYBoAYf2AcA&num=0&cid=5GibQ18mARvBAzsPBscMNNKS&sig=AOD64_3DkgS6jBUJmfb4f6elmXxw_76R_g&client=ca-pub-3659349150120535&adurl=http://www.hexal.de]]></ClickThrough>
+                            <ClickTracking id="movad"><![CDATA[http://event.movad.de/c.ount?et=2&ad=2&ci=112986981&c10=39637293861&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1460864106]]></ClickTracking>
+                            <ClickTracking id="3rdparty"><![CDATA[http://ad.71i.de/blind.gif?click_hexal_20x1&t=1460864106]]></ClickTracking>
+                        </VideoClicks>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" bitrate="400" width="0" height="0" type="video/x-flv"><![CDATA[http://ad.71i.de/images/hexal/2014/107969/werb_4359_hexal_acc_akut_779108_30s.flv]]></MediaFile>
+                            <MediaFile delivery="progressive" bitrate="400" width="0" height="0" type="video/mp4"><![CDATA[https://s3.eu-central-1.amazonaws.com/com.veeplay.samples/ads/werb_4359_hexal_acc_akut_779108_30s.mp4]]></MediaFile>
+                            <MediaFile delivery="progressive" bitrate="400" width="830" height="467" type="mobile/m3u8"><![CDATA[http://ad.71i.de/images/hexal/2014/107969/werb_4359_hexal_acc_akut_779108_30s.m3u8]]></MediaFile>
+                            <MediaFile delivery="progressive" bitrate="400" width="830" height="467" type="application/x-mpegURL"><![CDATA[http://ad.71i.de/images/hexal/2014/107969/werb_4359_hexal_acc_akut_779108_30s.m3u8]]></MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+            <Extensions>
+                <Extension type="dfp">
+                    <AdServingData>
+                        <Industry><![CDATA[]]></Industry>
+                    </AdServingData>
+                </Extension>
+            </Extensions>
+        </InLine>
+    </Ad>
+</VAST>
