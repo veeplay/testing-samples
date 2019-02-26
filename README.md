@@ -4,7 +4,12 @@
 
 ## Veeplay Testing Streams
 
-### MP4 progressive (for ads testing)
+### Ads (assets for pre/mid/postrolls testing)
+
+https://s3.eu-central-1.amazonaws.com/com.veeplay.samples/ads/141217_Philips_HueLightning_20s_neu.mp4
+https://s3.eu-central-1.amazonaws.com/com.veeplay.samples/ads/Gillette_Soccer_PreRoll_DE.mp4
+
+### MP4 progressive (for ads / content unit testing)
 
 - 480p - https://s3.eu-central-1.amazonaws.com/com.veeplay.samples/progressive/Sintel.2010.4kSD-MP4.mp4
 - HD - https://s3.eu-central-1.amazonaws.com/com.veeplay.samples/progressive/Sintel.2010.4kHD-MP4.mp4
