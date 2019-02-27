@@ -16,7 +16,7 @@
 All streams with variants for 4K, FHD, HD, 480p, still frames
 
 - H264 - https://s3.eu-central-1.amazonaws.com/com.veeplay.samples/hls/sintel-h624/Sintel.2010.4k.m3u8
-- HEVC
+- HEVC - https://s3.eu-central-1.amazonaws.com/com.veeplay.samples/hls/sintel-hevc/Sintel.2010.4k.m3u8
 - H264 AES-128 enc
 - HEVC AES-128 enc
 - Multitrack Audio H264
@@ -29,7 +29,7 @@ All streams with variants for 4K, FHD, HD, 480p, still frames
 All streams with variants for 4K, FHD, HD, 480p, still frames
 
 - H264 - https://s3.eu-central-1.amazonaws.com/com.veeplay.samples/dash/sintel-h264-multi-audio/Sintel.2010.4k.mpd
-- HEVC
+- HEVC - https://s3.eu-central-1.amazonaws.com/com.veeplay.samples/dash/sintel-hevc/Sintel.2010.4k.mpd
 - WebVTT multitrack text, H264
 - WebVTT multitrack text, HEVC
 
@@ -39,7 +39,8 @@ All streams with variants for 4K, FHD, HD, 480p, still frames
 
 - H264 HLS - https://s3.eu-central-1.amazonaws.com/com.veeplay.samples/cmaf/sintel-h264.m3u8
 - H264 DASH - https://s3.eu-central-1.amazonaws.com/com.veeplay.samples/cmaf/sintel-h264.mpd
-- HEVC
+- HEVC HLS - https://s3.eu-central-1.amazonaws.com/com.veeplay.samples/cmaf-hevc/Sintel.2010.4k.m3u8
+- HEVC DASH - https://s3.eu-central-1.amazonaws.com/com.veeplay.samples/cmaf-hevc/Sintel.2010.4k.mpd
 - H264 AES-128 enc
 - HEVC AES-128 enc
 - WebVTT multitrack text, H264
