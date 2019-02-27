@@ -1,0 +1,24 @@
+{
+  "content": [
+    {
+      "url": "http://www.pymaxe.com/heartbeat.mp3",
+      "autoplay": true,
+      "minimumAdInitialOffset": 0,
+      "minimumAdFinalOffset": 0,
+      "minimumAdSpacing": 0,
+      "seekAdHandling": "last"
+    }
+  ],
+  "ads": {
+    "adBreaks": {
+      "midContent": [
+        {
+          "offset": "00:00:10",
+          "urls": [
+            "https://raw.githubusercontent.com/veeplay/testing-samples/master/Veeplay/Ads/DAASTSample.xml"
+          ]
+        }
+      ]
+    }
+  }
+}

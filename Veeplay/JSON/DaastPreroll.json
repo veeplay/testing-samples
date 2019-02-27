@@ -1,0 +1,19 @@
+{
+  "content": [
+    {
+      "url": "http://www.pymaxe.com/heartbeat.mp3",
+      "autoplay": true
+    }
+  ],
+  "ads": {
+    "adBreaks": {
+      "preContent": [
+        {
+          "urls": [
+            "https://raw.githubusercontent.com/veeplay/testing-samples/master/Veeplay/Ads/DAASTSample.xml"
+          ]
+        }
+      ]
+    }
+  }
+}
