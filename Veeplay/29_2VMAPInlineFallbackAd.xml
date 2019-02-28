@@ -1,0 +1,26 @@
+<vmap:VMAP xmlns:vmap="http://www.iab.net/videosuite/vmap" version="1.0">
+	<vmap:AdBreak breakType="linear" breakId="mypre" timeOffset="start">
+		<vmap:AdSource allowMultipleAds="false" followRedirects="true" id="1">
+			<vmap:AdTagURI templateType="vast2">
+				<![CDATA[https://raw.githubusercontent.com/veeplay/testing-samples/master/Veeplay/29_2InlineFallbackAd.xml]]>
+			</vmap:AdTagURI>
+		</vmap:AdSource>
+		<vmap:TrackingEvents>
+			<vmap:Tracking event="breakStart">
+				http://MyServer.com/breakstart.gif
+			</vmap:Tracking>
+		</vmap:TrackingEvents>
+	</vmap:AdBreak>
+	<vmap:AdBreak breakType="linear" breakId="myid" timeOffset="end">
+		<vmap:AdSource allowMultipleAds="true" followRedirects="true" id="2">
+			<vmap:AdTagURI templateType="vast2">
+					<![CDATA[https://raw.githubusercontent.com/veeplay/testing-samples/master/Veeplay/Ads/140513_DB_Siegerbahncard_20sec_110371.xml]]>
+			</vmap:AdTagURI>
+		</vmap:AdSource>
+		<vmap:TrackingEvents>
+			<vmap:Tracking event="breakStart">
+				http://MyServer.com/breakstart.gif
+			</vmap:Tracking>
+		</vmap:TrackingEvents>
+	</vmap:AdBreak>
+</vmap:VMAP>

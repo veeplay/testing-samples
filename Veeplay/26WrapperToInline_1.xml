@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VAST version="2.0">
+    <Ad id="166172781-112987221-39637296021">
+        <!-- 001 Video VAST 2.0 - Instream-Typ -->
+        <InLine>
+            <AdSystem><![CDATA[dfp]]></AdSystem>
+            <AdTitle><![CDATA[20x1 - PuG Gilette MHR ISP ProGlide Soccer 13678432 71Rot MR1 AH orderId=166172781 lineItemId=112987221 creativeId=39637296021]]></AdTitle>
+            <Description><![CDATA[]]></Description>
+            <Error><![CDATA[http://event.movad.de/c.ount?et=66&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Error>
+            <Impression id="intern"><![CDATA[http://pubads.g.doubleclick.net/pagead/adview?ai=BKOTHUj9CVdbONMygbJv1gPgP5eDo_AMAAAAQASAAOABYlcfE1JMBYIOl4YXoG4IBF2NhLXB1Yi0zNjU5MzQ5MTUwMTIwNTM1sgEYd3d3LmRjbGstZGVmYXVsdC1yZWYuY29tugEJZ2ZwX2ltYWdlyAEJ2gEgaHR0cDovL3d3dy5kY2xrLWRlZmF1bHQtcmVmLmNvbS-pAvmJgNR4urI-wAIC4AIA6gISNTczMS9zaG93cm9vbS90ZXN0-AL00R6QA4QHmAPIBqgDAdAEkE7gBAGQBgGgBh_YBwA&sigh=IZV-Fx6sTpU&cid=5Gi5PuUxlofT0ST4GYW2ctUv&template_id=10036821&adurl=]]></Impression>
+            <Impression id="movad"><![CDATA[http://event.movad.de/c.ount?et=1&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Impression>
+            <Impression id="3rdparty"><![CDATA[http://ad.71i.de/blind.gif?imp_Gilette_20x1&t=1902645100]]></Impression>
+            <Impression id="3rdparty2"><![CDATA[]]></Impression>
+            <Impression id="bfp"><![CDATA[http://ad.71i.de/blind.gif?audience_Gilette_20x1&t=1902645100]]></Impression>
+            <Impression id="mafo1"><![CDATA[http://ad.71i.de/blind.gif?mafo_Gilette_20x1&t=1902645100]]></Impression>
+            <Creatives>
+                <Creative>
+                    <Linear>
+                        <Duration><![CDATA[00:00:20]]></Duration>
+                        <TrackingEvents>
+						    <Tracking event="firstQuartile"><![CDATA[http://event.movad.de/c.ount?et=32&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
+                            <Tracking event="firstQuartile"><![CDATA[http://ad.71i.de/blind.gif?25_Gilette_20x1&t=1902645100]]></Tracking>
+                       </TrackingEvents>
+                        <VideoClicks>
+                            <ClickThrough><![CDATA[http://adclick.g.doubleclick.net/aclk?sa=L&ai=BKOTHUj9CVdbONMygbJv1gPgP5eDo_AMAAAAQASAAOABYlcfE1JMBYIOl4YXoG4IBF2NhLXB1Yi0zNjU5MzQ5MTUwMTIwNTM1sgEYd3d3LmRjbGstZGVmYXVsdC1yZWYuY29tugEJZ2ZwX2ltYWdlyAEJ2gEgaHR0cDovL3d3dy5kY2xrLWRlZmF1bHQtcmVmLmNvbS-pAvmJgNR4urI-wAIC4AIA6gISNTczMS9zaG93cm9vbS90ZXN0-AL00R6QA4QHmAPIBqgDAdAEkE7gBAGQBgGgBh_YBwA&num=0&cid=5Gi5PuUxlofT0ST4GYW2ctUv&sig=AOD64_2h3Xvtyb7yJjiB80jGiX0KOA1rWg&client=ca-pub-3659349150120535&adurl=http://www.gilette.de]]></ClickThrough>
+                            <ClickTracking id="movad"><![CDATA[http://event.movad.de/c.ount?et=2&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></ClickTracking>
+                            <ClickTracking id="3rdparty"><![CDATA[http://ad.71i.de/blind.gif?click_Gilette_20x1&t=1902645100]]></ClickTracking>
+                        </VideoClicks>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" bitrate="400" width="0" height="0" type="video/x-flv"><![CDATA[http://ad.71i.de/images/procter/2014/108081/Gillette_Soccer_PreRoll_DE.flv]]></MediaFile>
+                            <MediaFile delivery="progressive" bitrate="400" width="0" height="0" type="video/mp4"><![CDATA[https://s3.eu-central-1.amazonaws.com/com.veeplay.samples/ads/Gillette_Soccer_PreRoll_DE.mp4]]></MediaFile>
+                            <MediaFile delivery="progressive" bitrate="400" width="830" height="467" type="mobile/m3u8"><![CDATA[http://ad.71i.de/images/procter/2014/108081/Gillette_Soccer_PreRoll_DE.m3u8]]></MediaFile>
+                            <MediaFile delivery="progressive" bitrate="400" width="830" height="467" type="application/x-mpegURL"><![CDATA[http://ad.71i.de/images/procter/2014/108081/Gillette_Soccer_PreRoll_DE.m3u8]]></MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+            <Extensions>
+                <Extension type="dfp">
+                    <AdServingData>
+                        <Industry><![CDATA[]]></Industry>
+                    </AdServingData>
+                </Extension>
+              </Extensions>
+        </InLine>
+    </Ad>
+</VAST>
