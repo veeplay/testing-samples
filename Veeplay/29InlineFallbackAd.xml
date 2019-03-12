@@ -47,8 +47,8 @@
                         </TrackingEvents>
                         <VideoClicks>
                             <ClickThrough><![CDATA[http://adclick.g.doubleclick.net/aclk?sa=L&ai=BKOTHUj9CVdbONMygbJv1gPgP5eDo_AMAAAAQASAAOABYlcfE1JMBYIOl4YXoG4IBF2NhLXB1Yi0zNjU5MzQ5MTUwMTIwNTM1sgEYd3d3LmRjbGstZGVmYXVsdC1yZWYuY29tugEJZ2ZwX2ltYWdlyAEJ2gEgaHR0cDovL3d3dy5kY2xrLWRlZmF1bHQtcmVmLmNvbS-pAvmJgNR4urI-wAIC4AIA6gISNTczMS9zaG93cm9vbS90ZXN0-AL00R6QA4QHmAPIBqgDAdAEkE7gBAGQBgGgBh_YBwA&num=0&cid=5Gi5PuUxlofT0ST4GYW2ctUv&sig=AOD64_2h3Xvtyb7yJjiB80jGiX0KOA1rWg&client=ca-pub-3659349150120535&adurl=http://www.gilette.de]]></ClickThrough>
-                            <ClickTracking id="movad"><![CDATA[http://event.movad.de/c.ount?et=2&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></ClickTracking>
-                            <ClickTracking id="3rdparty"><![CDATA[http://ad.71i.de/blind.gif?click_Gilette_20x1&t=1902645100]]></ClickTracking>
+                            <ClickTracking id="movad"><![CDATA[http://event.movad.de/c.ount?et=2&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&pos=[CLICKPOS]]]></ClickTracking>
+                            <ClickTracking id="3rdparty"><![CDATA[http://ad.71i.de/blind.gif?click_Gilette_20x1&t=1902645100&pos=[CLICKPOS]]]></ClickTracking>
                         </VideoClicks>
                         <MediaFiles>
                             <MediaFile delivery="progressive" bitrate="400" width="0" height="0" type="video/x-flv"><![CDATA[http://ad.71i.de/images/procter/2014/108081/Gillette_Soccer_PreRoll_DE.flv]]></MediaFile>
@@ -115,8 +115,8 @@
                         </TrackingEvents>
                         <VideoClicks>
                             <ClickThrough><![CDATA[http://adclick.g.doubleclick.net/aclk?sa=L&ai=BKOTHUj9CVdbONMygbJv1gPgP5eDo_AMAAAAQASAAOABYlcfE1JMBYIOl4YXoG4IBF2NhLXB1Yi0zNjU5MzQ5MTUwMTIwNTM1sgEYd3d3LmRjbGstZGVmYXVsdC1yZWYuY29tugEJZ2ZwX2ltYWdlyAEJ2gEgaHR0cDovL3d3dy5kY2xrLWRlZmF1bHQtcmVmLmNvbS-pAvmJgNR4urI-wAIC4AIA6gISNTczMS9zaG93cm9vbS90ZXN0-AL00R6QA4QHmAPIBqgDAdAEkE7gBAGQBgGgBh_YBwA&num=0&cid=5Gi5PuUxlofT0ST4GYW2ctUv&sig=AOD64_2h3Xvtyb7yJjiB80jGiX0KOA1rWg&client=ca-pub-3659349150120535&adurl=http://www.gilette.de]]></ClickThrough>
-                            <ClickTracking id="movad"><![CDATA[http://event.movad.de/c.ount?et=2&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></ClickTracking>
-                            <ClickTracking id="3rdparty"><![CDATA[http://ad.71i.de/blind.gif?click_Gilette_20x1&t=1902645100]]></ClickTracking>
+                            <ClickTracking id="movad"><![CDATA[http://event.movad.de/c.ount?et=2&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&pos=[CLICKPOS]]]></ClickTracking>
+                            <ClickTracking id="3rdparty"><![CDATA[http://ad.71i.de/blind.gif?click_Gilette_20x1&t=1902645100&pos=[CLICKPOS]]]></ClickTracking>
                         </VideoClicks>
                         <MediaFiles>
 						    <MediaFile delivery="progressive" bitrate="400" width="0" height="0" type="video/x-flv"><![CDATA[http://ad.71i.de/images/procter/2014/108081/Gillette_Soccer_PreRoll_DE.flv]]></MediaFile>
@@ -179,7 +179,7 @@
                         </TrackingEvents>
                         <VideoClicks>
                             <ClickThrough><![CDATA[http://adclick.g.doubleclick.net/aclk?sa=L&ai=BDki_So1IVYaWNpKhbJ2XgdAOxfzB-AUAAAAQASAAOABYxZ7nz5MBYIOl4YXoG4IBF2NhLXB1Yi0zNjU5MzQ5MTUwMTIwNTM1sgEYd3d3LmRjbGstZGVmYXVsdC1yZWYuY29tugEJZ2ZwX2ltYWdlyAEJ2gEgaHR0cDovL3d3dy5kY2xrLWRlZmF1bHQtcmVmLmNvbS-pAgoLr6P4mLI-wAIC4AIA6gIUNTczMS9zaG93cm9vbS9taWNoYWz4AvTRHpADhAeYA8gGqAMB0ASQTuAEAZAGAaAGH9gHAA&num=0&cid=5Giss7lMA5pIk-SzPA6ska7R&sig=AOD64_1pzE92cp0M9ShjdiGFvB3XXx993A&client=ca-pub-3659349150120535&adurl=http://www.maggi.de]]></ClickThrough>
-                            <ClickTracking id="movad"><![CDATA[http://event.movad.de/c.ount?et=2&ad=1&ci=87392301&c10=39627378501&c9=138653061&c11=in&ho=showroom&c8=11111&c7=26706621&c12=26750541&po=7&us=sim&t=1396857788]]></ClickTracking>
+                            <ClickTracking id="movad"><![CDATA[http://event.movad.de/c.ount?et=2&ad=1&ci=87392301&c10=39627378501&c9=138653061&c11=in&ho=showroom&c8=11111&c7=26706621&c12=26750541&po=7&us=sim&t=1396857788&pos=[CLICKPOS]]]></ClickTracking>
                             <ClickTracking id="3rdparty"><![CDATA[]]></ClickTracking>
                         </VideoClicks>
                         <MediaFiles>
@@ -248,8 +248,8 @@
                         </TrackingEvents>
                         <VideoClicks>
                             <ClickThrough><![CDATA[http://adclick.g.doubleclick.net/aclk?sa=L&ai=BKOTHUj9CVdbONMygbJv1gPgP5eDo_AMAAAAQASAAOABYlcfE1JMBYIOl4YXoG4IBF2NhLXB1Yi0zNjU5MzQ5MTUwMTIwNTM1sgEYd3d3LmRjbGstZGVmYXVsdC1yZWYuY29tugEJZ2ZwX2ltYWdlyAEJ2gEgaHR0cDovL3d3dy5kY2xrLWRlZmF1bHQtcmVmLmNvbS-pAvmJgNR4urI-wAIC4AIA6gISNTczMS9zaG93cm9vbS90ZXN0-AL00R6QA4QHmAPIBqgDAdAEkE7gBAGQBgGgBh_YBwA&num=0&cid=5Gi5PuUxlofT0ST4GYW2ctUv&sig=AOD64_2h3Xvtyb7yJjiB80jGiX0KOA1rWg&client=ca-pub-3659349150120535&adurl=http://www.gilette.de]]></ClickThrough>
-                            <ClickTracking id="movad"><![CDATA[http://event.movad.de/c.ount?et=2&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></ClickTracking>
-                            <ClickTracking id="3rdparty"><![CDATA[http://ad.71i.de/blind.gif?click_Gilette_20x1&t=1902645100]]></ClickTracking>
+                            <ClickTracking id="movad"><![CDATA[http://event.movad.de/c.ount?et=2&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&pos=[CLICKPOS]]]></ClickTracking>
+                            <ClickTracking id="3rdparty"><![CDATA[http://ad.71i.de/blind.gif?click_Gilette_20x1&t=1902645100&pos=[CLICKPOS]]]></ClickTracking>
                         </VideoClicks>
                         <MediaFiles>
 						        <MediaFile delivery="progressive" bitrate="400" width="0" height="0" type="video/mp4"><![CDATA[http://ad.71i.de/images/BadLink.mp4]]></MediaFile>
@@ -316,8 +316,8 @@
                         </TrackingEvents>
                         <VideoClicks>
                             <ClickThrough><![CDATA[http://adclick.g.doubleclick.net/aclk?sa=L&ai=BKOTHUj9CVdbONMygbJv1gPgP5eDo_AMAAAAQASAAOABYlcfE1JMBYIOl4YXoG4IBF2NhLXB1Yi0zNjU5MzQ5MTUwMTIwNTM1sgEYd3d3LmRjbGstZGVmYXVsdC1yZWYuY29tugEJZ2ZwX2ltYWdlyAEJ2gEgaHR0cDovL3d3dy5kY2xrLWRlZmF1bHQtcmVmLmNvbS-pAvmJgNR4urI-wAIC4AIA6gISNTczMS9zaG93cm9vbS90ZXN0-AL00R6QA4QHmAPIBqgDAdAEkE7gBAGQBgGgBh_YBwA&num=0&cid=5Gi5PuUxlofT0ST4GYW2ctUv&sig=AOD64_2h3Xvtyb7yJjiB80jGiX0KOA1rWg&client=ca-pub-3659349150120535&adurl=http://www.gilette.de]]></ClickThrough>
-                            <ClickTracking id="movad"><![CDATA[http://event.movad.de/c.ount?et=2&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></ClickTracking>
-                            <ClickTracking id="3rdparty"><![CDATA[http://ad.71i.de/blind.gif?click_Gilette_20x1&t=1902645100]]></ClickTracking>
+                            <ClickTracking id="movad"><![CDATA[http://event.movad.de/c.ount?et=2&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&pos=[CLICKPOS]]]></ClickTracking>
+                            <ClickTracking id="3rdparty"><![CDATA[http://ad.71i.de/blind.gif?click_Gilette_20x1&t=1902645100&pos=[CLICKPOS]]]></ClickTracking>
                         </VideoClicks>
                         <MediaFiles>
                             <MediaFile delivery="progressive" bitrate="400" width="0" height="0" type="video/x-flv"><![CDATA[http://ad.71i.de/images/procter/2014/108081/Gillette_Soccer_PreRoll_DE.flv]]></MediaFile>
