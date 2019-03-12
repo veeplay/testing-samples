@@ -5,9 +5,9 @@
             <AdSystem><![CDATA[dfp]]></AdSystem>
             <AdTitle><![CDATA[20x1 - PuG Gilette MHR ISP ProGlide Soccer 13678432 71Rot MR1 AH orderId=166172781 lineItemId=112987221 creativeId=39637296021]]></AdTitle>
             <Description><![CDATA[]]></Description>
-            <Error><![CDATA[http://event.movad.de/c.ount?et=66&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Error>
+            <Error><![CDATA[http://event.movad.de/c.ount?et=66&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Error>
             <Impression id="intern"><![CDATA[http://pubads.g.doubleclick.net/pagead/adview?ai=BKOTHUj9CVdbONMygbJv1gPgP5eDo_AMAAAAQASAAOABYlcfE1JMBYIOl4YXoG4IBF2NhLXB1Yi0zNjU5MzQ5MTUwMTIwNTM1sgEYd3d3LmRjbGstZGVmYXVsdC1yZWYuY29tugEJZ2ZwX2ltYWdlyAEJ2gEgaHR0cDovL3d3dy5kY2xrLWRlZmF1bHQtcmVmLmNvbS-pAvmJgNR4urI-wAIC4AIA6gISNTczMS9zaG93cm9vbS90ZXN0-AL00R6QA4QHmAPIBqgDAdAEkE7gBAGQBgGgBh_YBwA&sigh=IZV-Fx6sTpU&cid=5Gi5PuUxlofT0ST4GYW2ctUv&template_id=10036821&adurl=]]></Impression>
-            <Impression id="movad"><![CDATA[http://event.movad.de/c.ount?et=1&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Impression>
+            <Impression id="movad"><![CDATA[http://event.movad.de/c.ount?et=1&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Impression>
             <Impression id="3rdparty"><![CDATA[http://ad.71i.de/blind.gif?imp_Gilette_20x1&t=1902645100]]></Impression>
             <Impression id="3rdparty2"><![CDATA[]]></Impression>
             <Impression id="bfp"><![CDATA[http://ad.71i.de/blind.gif?audience_Gilette_20x1&t=1902645100]]></Impression>
@@ -17,37 +17,37 @@
                     <Linear skipoffset="20%">
                         <Duration><![CDATA[00:00:20]]></Duration>
                         <TrackingEvents>
-							<Tracking event="creativeView"><![CDATA[http://event.movad.de/c.ount?et=10&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
-                            <Tracking event="start"><![CDATA[http://event.movad.de/c.ount?et=10&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
+							<Tracking event="creativeView"><![CDATA[http://event.movad.de/c.ount?et=10&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
+                            <Tracking event="start"><![CDATA[http://event.movad.de/c.ount?et=10&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
                             <Tracking event="start"><![CDATA[http://ad.71i.de/blind.gif?start_Gilette_20x1&t=1902645100]]></Tracking>
-                            <Tracking event="firstQuartile"><![CDATA[http://event.movad.de/c.ount?et=32&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
+                            <Tracking event="firstQuartile"><![CDATA[http://event.movad.de/c.ount?et=32&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
                             <Tracking event="firstQuartile"><![CDATA[http://ad.71i.de/blind.gif?25_Gilette_20x1&t=1902645100]]></Tracking>
-                            <Tracking event="midpoint"><![CDATA[http://event.movad.de/c.ount?et=35&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
+                            <Tracking event="midpoint"><![CDATA[http://event.movad.de/c.ount?et=35&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
                             <Tracking event="midpoint"><![CDATA[http://ad.71i.de/blind.gif?50_Gilette_20x1&t=1902645100]]></Tracking>
-                            <Tracking event="thirdQuartile"><![CDATA[http://event.movad.de/c.ount?et=37&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
+                            <Tracking event="thirdQuartile"><![CDATA[http://event.movad.de/c.ount?et=37&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
                             <Tracking event="thirdQuartile"><![CDATA[http://ad.71i.de/blind.gif?75_Gilette_20x1&t=1902645100]]></Tracking>
-                            <Tracking event="complete"><![CDATA[http://event.movad.de/c.ount?et=40&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
+                            <Tracking event="complete"><![CDATA[http://event.movad.de/c.ount?et=40&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
                             <Tracking event="complete"><![CDATA[http://ad.71i.de/blind.gif?100_Gilette_20x1&t=1902645100]]></Tracking>
-                            <Tracking event="mute"><![CDATA[http://event.movad.de/c.ount?et=14&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
+                            <Tracking event="mute"><![CDATA[http://event.movad.de/c.ount?et=14&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
                             <Tracking event="mute"><![CDATA[http://ad.71i.de/blind.gif?mute_Gilette_20x1&t=1902645100]]></Tracking>
-                            <Tracking event="unmute"><![CDATA[http://event.movad.de/c.ount?et=15&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
+                            <Tracking event="unmute"><![CDATA[http://event.movad.de/c.ount?et=15&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
                             <Tracking event="unmute"><![CDATA[http://ad.71i.de/blind.gif?unmute_Gilette_20x1&t=1902645100]]></Tracking>
-                            <Tracking event="fullscreen"><![CDATA[http://event.movad.de/c.ount?et=16&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
+                            <Tracking event="fullscreen"><![CDATA[http://event.movad.de/c.ount?et=16&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
                             <Tracking event="fullscreen"><![CDATA[http://ad.71i.de/blind.gif?fullscreen_Gilette_20x1&t=1902645100]]></Tracking>
-							<Tracking event="exitFullscreen"><![CDATA[http://event.movad.de/c.ount?et=16&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
+							<Tracking event="exitFullscreen"><![CDATA[http://event.movad.de/c.ount?et=16&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
                             <Tracking event="exitFullscreen"><![CDATA[http://ad.71i.de/blind.gif?fullscreen_Gilette_20x1&t=1902645100]]></Tracking>                       
-							<Tracking event="pause"><![CDATA[http://event.movad.de/c.ount?et=11&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
+							<Tracking event="pause"><![CDATA[http://event.movad.de/c.ount?et=11&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
                             <Tracking event="pause"><![CDATA[http://ad.71i.de/blind.gif?pause_Gilette_20x1&t=1902645100]]></Tracking>
-							<Tracking event="resume"><![CDATA[http://event.movad.de/c.ount?et=11&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
+							<Tracking event="resume"><![CDATA[http://event.movad.de/c.ount?et=11&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
                             <Tracking event="rewind"><![CDATA[http://ad.71i.de/blind.gif?pause_Gilette_20x1&t=1902645100]]></Tracking>
-                            <Tracking event="expand"><![CDATA[http://event.movad.de/c.ount?et=3&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
-                            <Tracking event="collapse"><![CDATA[http://event.movad.de/c.ount?et=4&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
-                            <Tracking event="close"><![CDATA[http://event.movad.de/c.ount?et=4&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
-                            <Tracking event="acceptInvitation"><![CDATA[http://event.movad.de/c.ount?et=20&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
+                            <Tracking event="expand"><![CDATA[http://event.movad.de/c.ount?et=3&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
+                            <Tracking event="collapse"><![CDATA[http://event.movad.de/c.ount?et=4&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
+                            <Tracking event="close"><![CDATA[http://event.movad.de/c.ount?et=4&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
+                            <Tracking event="acceptInvitation"><![CDATA[http://event.movad.de/c.ount?et=20&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
                         </TrackingEvents>
                         <VideoClicks>
                             <ClickThrough><![CDATA[http://adclick.g.doubleclick.net/aclk?sa=L&ai=BKOTHUj9CVdbONMygbJv1gPgP5eDo_AMAAAAQASAAOABYlcfE1JMBYIOl4YXoG4IBF2NhLXB1Yi0zNjU5MzQ5MTUwMTIwNTM1sgEYd3d3LmRjbGstZGVmYXVsdC1yZWYuY29tugEJZ2ZwX2ltYWdlyAEJ2gEgaHR0cDovL3d3dy5kY2xrLWRlZmF1bHQtcmVmLmNvbS-pAvmJgNR4urI-wAIC4AIA6gISNTczMS9zaG93cm9vbS90ZXN0-AL00R6QA4QHmAPIBqgDAdAEkE7gBAGQBgGgBh_YBwA&num=0&cid=5Gi5PuUxlofT0ST4GYW2ctUv&sig=AOD64_2h3Xvtyb7yJjiB80jGiX0KOA1rWg&client=ca-pub-3659349150120535&adurl=http://www.gilette.de]]></ClickThrough>
-                            <ClickTracking id="movad"><![CDATA[http://event.movad.de/c.ount?et=2&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&pos=[CLICKPOS]]]></ClickTracking>
+                            <ClickTracking id="movad"><![CDATA[http://event.movad.de/c.ount?et=2&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]&pos=[CLICKPOS]]]></ClickTracking>
                             <ClickTracking id="3rdparty"><![CDATA[http://ad.71i.de/blind.gif?click_Gilette_20x1&t=1902645100&pos=[CLICKPOS]]]></ClickTracking>
                         </VideoClicks>
                         <MediaFiles>
@@ -73,9 +73,9 @@
             <AdSystem><![CDATA[dfp]]></AdSystem>
             <AdTitle><![CDATA[20x1 - PuG Gilette MHR ISP ProGlide Soccer 13678432 71Rot MR1 AH orderId=166172781 lineItemId=112987221 creativeId=39637296021]]></AdTitle>
             <Description><![CDATA[]]></Description>
-            <Error><![CDATA[http://event.movad.de/c.ount?et=66&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Error>
+            <Error><![CDATA[http://event.movad.de/c.ount?et=66&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Error>
             <Impression id="intern"><![CDATA[http://pubads.g.doubleclick.net/pagead/adview?ai=BKOTHUj9CVdbONMygbJv1gPgP5eDo_AMAAAAQASAAOABYlcfE1JMBYIOl4YXoG4IBF2NhLXB1Yi0zNjU5MzQ5MTUwMTIwNTM1sgEYd3d3LmRjbGstZGVmYXVsdC1yZWYuY29tugEJZ2ZwX2ltYWdlyAEJ2gEgaHR0cDovL3d3dy5kY2xrLWRlZmF1bHQtcmVmLmNvbS-pAvmJgNR4urI-wAIC4AIA6gISNTczMS9zaG93cm9vbS90ZXN0-AL00R6QA4QHmAPIBqgDAdAEkE7gBAGQBgGgBh_YBwA&sigh=IZV-Fx6sTpU&cid=5Gi5PuUxlofT0ST4GYW2ctUv&template_id=10036821&adurl=]]></Impression>
-            <Impression id="movad"><![CDATA[http://event.movad.de/c.ount?et=1&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Impression>
+            <Impression id="movad"><![CDATA[http://event.movad.de/c.ount?et=1&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Impression>
             <Impression id="3rdparty"><![CDATA[http://ad.71i.de/blind.gif?imp_Gilette_20x1&t=1902645100]]></Impression>
             <Impression id="3rdparty2"><![CDATA[]]></Impression>
             <Impression id="bfp"><![CDATA[http://ad.71i.de/blind.gif?audience_Gilette_20x1&t=1902645100]]></Impression>
@@ -85,37 +85,37 @@
                     <Linear skipoffset="20%">
                         <Duration><![CDATA[00:00:20]]></Duration>
                         <TrackingEvents>
-							<Tracking event="creativeView"><![CDATA[http://event.movad.de/c.ount?et=10&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
-                            <Tracking event="start"><![CDATA[http://event.movad.de/c.ount?et=10&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
+							<Tracking event="creativeView"><![CDATA[http://event.movad.de/c.ount?et=10&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
+                            <Tracking event="start"><![CDATA[http://event.movad.de/c.ount?et=10&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
                             <Tracking event="start"><![CDATA[http://ad.71i.de/blind.gif?start_Gilette_20x1&t=1902645100]]></Tracking>
-                            <Tracking event="firstQuartile"><![CDATA[http://event.movad.de/c.ount?et=32&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
+                            <Tracking event="firstQuartile"><![CDATA[http://event.movad.de/c.ount?et=32&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
                             <Tracking event="firstQuartile"><![CDATA[http://ad.71i.de/blind.gif?25_Gilette_20x1&t=1902645100]]></Tracking>
-                            <Tracking event="midpoint"><![CDATA[http://event.movad.de/c.ount?et=35&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
+                            <Tracking event="midpoint"><![CDATA[http://event.movad.de/c.ount?et=35&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
                             <Tracking event="midpoint"><![CDATA[http://ad.71i.de/blind.gif?50_Gilette_20x1&t=1902645100]]></Tracking>
-                            <Tracking event="thirdQuartile"><![CDATA[http://event.movad.de/c.ount?et=37&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
+                            <Tracking event="thirdQuartile"><![CDATA[http://event.movad.de/c.ount?et=37&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
                             <Tracking event="thirdQuartile"><![CDATA[http://ad.71i.de/blind.gif?75_Gilette_20x1&t=1902645100]]></Tracking>
-                            <Tracking event="complete"><![CDATA[http://event.movad.de/c.ount?et=40&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
+                            <Tracking event="complete"><![CDATA[http://event.movad.de/c.ount?et=40&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
                             <Tracking event="complete"><![CDATA[http://ad.71i.de/blind.gif?100_Gilette_20x1&t=1902645100]]></Tracking>
-                            <Tracking event="mute"><![CDATA[http://event.movad.de/c.ount?et=14&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
+                            <Tracking event="mute"><![CDATA[http://event.movad.de/c.ount?et=14&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
                             <Tracking event="mute"><![CDATA[http://ad.71i.de/blind.gif?mute_Gilette_20x1&t=1902645100]]></Tracking>
-                            <Tracking event="unmute"><![CDATA[http://event.movad.de/c.ount?et=15&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
+                            <Tracking event="unmute"><![CDATA[http://event.movad.de/c.ount?et=15&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
                             <Tracking event="unmute"><![CDATA[http://ad.71i.de/blind.gif?unmute_Gilette_20x1&t=1902645100]]></Tracking>
-                            <Tracking event="fullscreen"><![CDATA[http://event.movad.de/c.ount?et=16&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
+                            <Tracking event="fullscreen"><![CDATA[http://event.movad.de/c.ount?et=16&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
                             <Tracking event="fullscreen"><![CDATA[http://ad.71i.de/blind.gif?fullscreen_Gilette_20x1&t=1902645100]]></Tracking>
-							<Tracking event="exitFullscreen"><![CDATA[http://event.movad.de/c.ount?et=16&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
+							<Tracking event="exitFullscreen"><![CDATA[http://event.movad.de/c.ount?et=16&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
                             <Tracking event="exitFullscreen"><![CDATA[http://ad.71i.de/blind.gif?fullscreen_Gilette_20x1&t=1902645100]]></Tracking>                       
-							<Tracking event="pause"><![CDATA[http://event.movad.de/c.ount?et=11&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
+							<Tracking event="pause"><![CDATA[http://event.movad.de/c.ount?et=11&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
                             <Tracking event="pause"><![CDATA[http://ad.71i.de/blind.gif?pause_Gilette_20x1&t=1902645100]]></Tracking>
-							<Tracking event="resume"><![CDATA[http://event.movad.de/c.ount?et=11&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
+							<Tracking event="resume"><![CDATA[http://event.movad.de/c.ount?et=11&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
                             <Tracking event="rewind"><![CDATA[http://ad.71i.de/blind.gif?pause_Gilette_20x1&t=1902645100]]></Tracking>
-                            <Tracking event="expand"><![CDATA[http://event.movad.de/c.ount?et=3&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
-                            <Tracking event="collapse"><![CDATA[http://event.movad.de/c.ount?et=4&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
-                            <Tracking event="close"><![CDATA[http://event.movad.de/c.ount?et=4&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
-                            <Tracking event="acceptInvitation"><![CDATA[http://event.movad.de/c.ount?et=20&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
+                            <Tracking event="expand"><![CDATA[http://event.movad.de/c.ount?et=3&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
+                            <Tracking event="collapse"><![CDATA[http://event.movad.de/c.ount?et=4&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
+                            <Tracking event="close"><![CDATA[http://event.movad.de/c.ount?et=4&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
+                            <Tracking event="acceptInvitation"><![CDATA[http://event.movad.de/c.ount?et=20&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
                         </TrackingEvents>
                         <VideoClicks>
                             <ClickThrough><![CDATA[http://adclick.g.doubleclick.net/aclk?sa=L&ai=BKOTHUj9CVdbONMygbJv1gPgP5eDo_AMAAAAQASAAOABYlcfE1JMBYIOl4YXoG4IBF2NhLXB1Yi0zNjU5MzQ5MTUwMTIwNTM1sgEYd3d3LmRjbGstZGVmYXVsdC1yZWYuY29tugEJZ2ZwX2ltYWdlyAEJ2gEgaHR0cDovL3d3dy5kY2xrLWRlZmF1bHQtcmVmLmNvbS-pAvmJgNR4urI-wAIC4AIA6gISNTczMS9zaG93cm9vbS90ZXN0-AL00R6QA4QHmAPIBqgDAdAEkE7gBAGQBgGgBh_YBwA&num=0&cid=5Gi5PuUxlofT0ST4GYW2ctUv&sig=AOD64_2h3Xvtyb7yJjiB80jGiX0KOA1rWg&client=ca-pub-3659349150120535&adurl=http://www.gilette.de]]></ClickThrough>
-                            <ClickTracking id="movad"><![CDATA[http://event.movad.de/c.ount?et=2&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&pos=[CLICKPOS]]]></ClickTracking>
+                            <ClickTracking id="movad"><![CDATA[http://event.movad.de/c.ount?et=2&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]&pos=[CLICKPOS]]]></ClickTracking>
                             <ClickTracking id="3rdparty"><![CDATA[http://ad.71i.de/blind.gif?click_Gilette_20x1&t=1902645100&pos=[CLICKPOS]]]></ClickTracking>
                         </VideoClicks>
                         <MediaFiles>
@@ -206,9 +206,9 @@
             <AdSystem><![CDATA[dfp]]></AdSystem>
             <AdTitle><![CDATA[20x1 - Soccer 13678432 71Rot MR1 AH orderId=166172781 lineItemId=112987221 creativeId=39637296021]]></AdTitle>
             <Description><![CDATA[]]></Description>
-            <Error><![CDATA[http://event.movad.de/c.ount?et=66&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Error>
+            <Error><![CDATA[http://event.movad.de/c.ount?et=66&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Error>
             <Impression id="intern"><![CDATA[http://pubads.g.doubleclick.net/pagead/adview?ai=BKOTHUj9CVdbONMygbJv1gPgP5eDo_AMAAAAQASAAOABYlcfE1JMBYIOl4YXoG4IBF2NhLXB1Yi0zNjU5MzQ5MTUwMTIwNTM1sgEYd3d3LmRjbGstZGVmYXVsdC1yZWYuY29tugEJZ2ZwX2ltYWdlyAEJ2gEgaHR0cDovL3d3dy5kY2xrLWRlZmF1bHQtcmVmLmNvbS-pAvmJgNR4urI-wAIC4AIA6gISNTczMS9zaG93cm9vbS90ZXN0-AL00R6QA4QHmAPIBqgDAdAEkE7gBAGQBgGgBh_YBwA&sigh=IZV-Fx6sTpU&cid=5Gi5PuUxlofT0ST4GYW2ctUv&template_id=10036821&adurl=]]></Impression>
-            <Impression id="movad"><![CDATA[http://event.movad.de/c.ount?et=1&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Impression>
+            <Impression id="movad"><![CDATA[http://event.movad.de/c.ount?et=1&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Impression>
             <Impression id="3rdparty"><![CDATA[http://ad.71i.de/blind.gif?imp_Gilette_20x1&t=1902645100]]></Impression>
             <Impression id="3rdparty2"><![CDATA[]]></Impression>
             <Impression id="bfp"><![CDATA[http://ad.71i.de/blind.gif?audience_Gilette_20x1&t=1902645100]]></Impression>
@@ -218,37 +218,37 @@
                     <Linear skipoffset="20%">
                         <Duration><![CDATA[00:00:20]]></Duration>
                         <TrackingEvents>
-							<Tracking event="creativeView"><![CDATA[http://event.movad.de/c.ount?et=10&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
-                            <Tracking event="start"><![CDATA[http://event.movad.de/c.ount?et=10&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
+							<Tracking event="creativeView"><![CDATA[http://event.movad.de/c.ount?et=10&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
+                            <Tracking event="start"><![CDATA[http://event.movad.de/c.ount?et=10&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
                             <Tracking event="start"><![CDATA[http://ad.71i.de/blind.gif?start_Gilette_20x1&t=1902645100]]></Tracking>
-                            <Tracking event="firstQuartile"><![CDATA[http://event.movad.de/c.ount?et=32&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
+                            <Tracking event="firstQuartile"><![CDATA[http://event.movad.de/c.ount?et=32&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
                             <Tracking event="firstQuartile"><![CDATA[http://ad.71i.de/blind.gif?25_Gilette_20x1&t=1902645100]]></Tracking>
-                            <Tracking event="midpoint"><![CDATA[http://event.movad.de/c.ount?et=35&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
+                            <Tracking event="midpoint"><![CDATA[http://event.movad.de/c.ount?et=35&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
                             <Tracking event="midpoint"><![CDATA[http://ad.71i.de/blind.gif?50_Gilette_20x1&t=1902645100]]></Tracking>
-                            <Tracking event="thirdQuartile"><![CDATA[http://event.movad.de/c.ount?et=37&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
+                            <Tracking event="thirdQuartile"><![CDATA[http://event.movad.de/c.ount?et=37&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
                             <Tracking event="thirdQuartile"><![CDATA[http://ad.71i.de/blind.gif?75_Gilette_20x1&t=1902645100]]></Tracking>
-                            <Tracking event="complete"><![CDATA[http://event.movad.de/c.ount?et=40&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
+                            <Tracking event="complete"><![CDATA[http://event.movad.de/c.ount?et=40&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
                             <Tracking event="complete"><![CDATA[http://ad.71i.de/blind.gif?100_Gilette_20x1&t=1902645100]]></Tracking>
-                            <Tracking event="mute"><![CDATA[http://event.movad.de/c.ount?et=14&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
+                            <Tracking event="mute"><![CDATA[http://event.movad.de/c.ount?et=14&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
                             <Tracking event="mute"><![CDATA[http://ad.71i.de/blind.gif?mute_Gilette_20x1&t=1902645100]]></Tracking>
-                            <Tracking event="unmute"><![CDATA[http://event.movad.de/c.ount?et=15&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
+                            <Tracking event="unmute"><![CDATA[http://event.movad.de/c.ount?et=15&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
                             <Tracking event="unmute"><![CDATA[http://ad.71i.de/blind.gif?unmute_Gilette_20x1&t=1902645100]]></Tracking>
-                            <Tracking event="fullscreen"><![CDATA[http://event.movad.de/c.ount?et=16&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
+                            <Tracking event="fullscreen"><![CDATA[http://event.movad.de/c.ount?et=16&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
                             <Tracking event="fullscreen"><![CDATA[http://ad.71i.de/blind.gif?fullscreen_Gilette_20x1&t=1902645100]]></Tracking>
-							<Tracking event="exitFullscreen"><![CDATA[http://event.movad.de/c.ount?et=16&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
+							<Tracking event="exitFullscreen"><![CDATA[http://event.movad.de/c.ount?et=16&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
                             <Tracking event="exitFullscreen"><![CDATA[http://ad.71i.de/blind.gif?fullscreen_Gilette_20x1&t=1902645100]]></Tracking>                       
-							<Tracking event="pause"><![CDATA[http://event.movad.de/c.ount?et=11&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
+							<Tracking event="pause"><![CDATA[http://event.movad.de/c.ount?et=11&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
                             <Tracking event="pause"><![CDATA[http://ad.71i.de/blind.gif?pause_Gilette_20x1&t=1902645100]]></Tracking>
-							<Tracking event="resume"><![CDATA[http://event.movad.de/c.ount?et=11&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
+							<Tracking event="resume"><![CDATA[http://event.movad.de/c.ount?et=11&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
                             <Tracking event="rewind"><![CDATA[http://ad.71i.de/blind.gif?pause_Gilette_20x1&t=1902645100]]></Tracking>
-                            <Tracking event="expand"><![CDATA[http://event.movad.de/c.ount?et=3&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
-                            <Tracking event="collapse"><![CDATA[http://event.movad.de/c.ount?et=4&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
-                            <Tracking event="close"><![CDATA[http://event.movad.de/c.ount?et=4&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
-                            <Tracking event="acceptInvitation"><![CDATA[http://event.movad.de/c.ount?et=20&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
+                            <Tracking event="expand"><![CDATA[http://event.movad.de/c.ount?et=3&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
+                            <Tracking event="collapse"><![CDATA[http://event.movad.de/c.ount?et=4&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
+                            <Tracking event="close"><![CDATA[http://event.movad.de/c.ount?et=4&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
+                            <Tracking event="acceptInvitation"><![CDATA[http://event.movad.de/c.ount?et=20&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
                         </TrackingEvents>
                         <VideoClicks>
                             <ClickThrough><![CDATA[http://adclick.g.doubleclick.net/aclk?sa=L&ai=BKOTHUj9CVdbONMygbJv1gPgP5eDo_AMAAAAQASAAOABYlcfE1JMBYIOl4YXoG4IBF2NhLXB1Yi0zNjU5MzQ5MTUwMTIwNTM1sgEYd3d3LmRjbGstZGVmYXVsdC1yZWYuY29tugEJZ2ZwX2ltYWdlyAEJ2gEgaHR0cDovL3d3dy5kY2xrLWRlZmF1bHQtcmVmLmNvbS-pAvmJgNR4urI-wAIC4AIA6gISNTczMS9zaG93cm9vbS90ZXN0-AL00R6QA4QHmAPIBqgDAdAEkE7gBAGQBgGgBh_YBwA&num=0&cid=5Gi5PuUxlofT0ST4GYW2ctUv&sig=AOD64_2h3Xvtyb7yJjiB80jGiX0KOA1rWg&client=ca-pub-3659349150120535&adurl=http://www.gilette.de]]></ClickThrough>
-                            <ClickTracking id="movad"><![CDATA[http://event.movad.de/c.ount?et=2&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&pos=[CLICKPOS]]]></ClickTracking>
+                            <ClickTracking id="movad"><![CDATA[http://event.movad.de/c.ount?et=2&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]&pos=[CLICKPOS]]]></ClickTracking>
                             <ClickTracking id="3rdparty"><![CDATA[http://ad.71i.de/blind.gif?click_Gilette_20x1&t=1902645100&pos=[CLICKPOS]]]></ClickTracking>
                         </VideoClicks>
                         <MediaFiles>
@@ -274,9 +274,9 @@
             <AdSystem><![CDATA[dfp]]></AdSystem>
             <AdTitle><![CDATA[20x1 - PuG Gilette MHR ISP ProGlide Soccer 13678432 71Rot MR1 AH orderId=166172781 lineItemId=112987221 creativeId=39637296021]]></AdTitle>
             <Description><![CDATA[]]></Description>
-            <Error><![CDATA[http://event.movad.de/c.ount?et=66&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Error>
+            <Error><![CDATA[http://event.movad.de/c.ount?et=66&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Error>
             <Impression id="intern"><![CDATA[http://pubads.g.doubleclick.net/pagead/adview?ai=BKOTHUj9CVdbONMygbJv1gPgP5eDo_AMAAAAQASAAOABYlcfE1JMBYIOl4YXoG4IBF2NhLXB1Yi0zNjU5MzQ5MTUwMTIwNTM1sgEYd3d3LmRjbGstZGVmYXVsdC1yZWYuY29tugEJZ2ZwX2ltYWdlyAEJ2gEgaHR0cDovL3d3dy5kY2xrLWRlZmF1bHQtcmVmLmNvbS-pAvmJgNR4urI-wAIC4AIA6gISNTczMS9zaG93cm9vbS90ZXN0-AL00R6QA4QHmAPIBqgDAdAEkE7gBAGQBgGgBh_YBwA&sigh=IZV-Fx6sTpU&cid=5Gi5PuUxlofT0ST4GYW2ctUv&template_id=10036821&adurl=]]></Impression>
-            <Impression id="movad"><![CDATA[http://event.movad.de/c.ount?et=1&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Impression>
+            <Impression id="movad"><![CDATA[http://event.movad.de/c.ount?et=1&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Impression>
             <Impression id="3rdparty"><![CDATA[http://ad.71i.de/blind.gif?imp_Gilette_20x1&t=1902645100]]></Impression>
             <Impression id="3rdparty2"><![CDATA[]]></Impression>
             <Impression id="bfp"><![CDATA[http://ad.71i.de/blind.gif?audience_Gilette_20x1&t=1902645100]]></Impression>
@@ -286,37 +286,37 @@
                     <Linear skipoffset="20%">
                         <Duration><![CDATA[00:00:20]]></Duration>
                         <TrackingEvents>
-							<Tracking event="creativeView"><![CDATA[http://event.movad.de/c.ount?et=10&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
-                            <Tracking event="start"><![CDATA[http://event.movad.de/c.ount?et=10&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
+							<Tracking event="creativeView"><![CDATA[http://event.movad.de/c.ount?et=10&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
+                            <Tracking event="start"><![CDATA[http://event.movad.de/c.ount?et=10&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
                             <Tracking event="start"><![CDATA[http://ad.71i.de/blind.gif?start_Gilette_20x1&t=1902645100]]></Tracking>
-                            <Tracking event="firstQuartile"><![CDATA[http://event.movad.de/c.ount?et=32&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
+                            <Tracking event="firstQuartile"><![CDATA[http://event.movad.de/c.ount?et=32&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
                             <Tracking event="firstQuartile"><![CDATA[http://ad.71i.de/blind.gif?25_Gilette_20x1&t=1902645100]]></Tracking>
-                            <Tracking event="midpoint"><![CDATA[http://event.movad.de/c.ount?et=35&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
+                            <Tracking event="midpoint"><![CDATA[http://event.movad.de/c.ount?et=35&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
                             <Tracking event="midpoint"><![CDATA[http://ad.71i.de/blind.gif?50_Gilette_20x1&t=1902645100]]></Tracking>
-                            <Tracking event="thirdQuartile"><![CDATA[http://event.movad.de/c.ount?et=37&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
+                            <Tracking event="thirdQuartile"><![CDATA[http://event.movad.de/c.ount?et=37&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
                             <Tracking event="thirdQuartile"><![CDATA[http://ad.71i.de/blind.gif?75_Gilette_20x1&t=1902645100]]></Tracking>
-                            <Tracking event="complete"><![CDATA[http://event.movad.de/c.ount?et=40&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
+                            <Tracking event="complete"><![CDATA[http://event.movad.de/c.ount?et=40&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
                             <Tracking event="complete"><![CDATA[http://ad.71i.de/blind.gif?100_Gilette_20x1&t=1902645100]]></Tracking>
-                            <Tracking event="mute"><![CDATA[http://event.movad.de/c.ount?et=14&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
+                            <Tracking event="mute"><![CDATA[http://event.movad.de/c.ount?et=14&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
                             <Tracking event="mute"><![CDATA[http://ad.71i.de/blind.gif?mute_Gilette_20x1&t=1902645100]]></Tracking>
-                            <Tracking event="unmute"><![CDATA[http://event.movad.de/c.ount?et=15&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
+                            <Tracking event="unmute"><![CDATA[http://event.movad.de/c.ount?et=15&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
                             <Tracking event="unmute"><![CDATA[http://ad.71i.de/blind.gif?unmute_Gilette_20x1&t=1902645100]]></Tracking>
-                            <Tracking event="fullscreen"><![CDATA[http://event.movad.de/c.ount?et=16&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
+                            <Tracking event="fullscreen"><![CDATA[http://event.movad.de/c.ount?et=16&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
                             <Tracking event="fullscreen"><![CDATA[http://ad.71i.de/blind.gif?fullscreen_Gilette_20x1&t=1902645100]]></Tracking>
-							<Tracking event="exitFullscreen"><![CDATA[http://event.movad.de/c.ount?et=16&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
+							<Tracking event="exitFullscreen"><![CDATA[http://event.movad.de/c.ount?et=16&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
                             <Tracking event="exitFullscreen"><![CDATA[http://ad.71i.de/blind.gif?fullscreen_Gilette_20x1&t=1902645100]]></Tracking>                       
-							<Tracking event="pause"><![CDATA[http://event.movad.de/c.ount?et=11&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
+							<Tracking event="pause"><![CDATA[http://event.movad.de/c.ount?et=11&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
                             <Tracking event="pause"><![CDATA[http://ad.71i.de/blind.gif?pause_Gilette_20x1&t=1902645100]]></Tracking>
-							<Tracking event="resume"><![CDATA[http://event.movad.de/c.ount?et=11&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
+							<Tracking event="resume"><![CDATA[http://event.movad.de/c.ount?et=11&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
                             <Tracking event="rewind"><![CDATA[http://ad.71i.de/blind.gif?pause_Gilette_20x1&t=1902645100]]></Tracking>
-                            <Tracking event="expand"><![CDATA[http://event.movad.de/c.ount?et=3&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
-                            <Tracking event="collapse"><![CDATA[http://event.movad.de/c.ount?et=4&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
-                            <Tracking event="close"><![CDATA[http://event.movad.de/c.ount?et=4&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
-                            <Tracking event="acceptInvitation"><![CDATA[http://event.movad.de/c.ount?et=20&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100]]></Tracking>
+                            <Tracking event="expand"><![CDATA[http://event.movad.de/c.ount?et=3&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
+                            <Tracking event="collapse"><![CDATA[http://event.movad.de/c.ount?et=4&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
+                            <Tracking event="close"><![CDATA[http://event.movad.de/c.ount?et=4&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
+                            <Tracking event="acceptInvitation"><![CDATA[http://event.movad.de/c.ount?et=20&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]]]></Tracking>
                         </TrackingEvents>
                         <VideoClicks>
                             <ClickThrough><![CDATA[http://adclick.g.doubleclick.net/aclk?sa=L&ai=BKOTHUj9CVdbONMygbJv1gPgP5eDo_AMAAAAQASAAOABYlcfE1JMBYIOl4YXoG4IBF2NhLXB1Yi0zNjU5MzQ5MTUwMTIwNTM1sgEYd3d3LmRjbGstZGVmYXVsdC1yZWYuY29tugEJZ2ZwX2ltYWdlyAEJ2gEgaHR0cDovL3d3dy5kY2xrLWRlZmF1bHQtcmVmLmNvbS-pAvmJgNR4urI-wAIC4AIA6gISNTczMS9zaG93cm9vbS90ZXN0-AL00R6QA4QHmAPIBqgDAdAEkE7gBAGQBgGgBh_YBwA&num=0&cid=5Gi5PuUxlofT0ST4GYW2ctUv&sig=AOD64_2h3Xvtyb7yJjiB80jGiX0KOA1rWg&client=ca-pub-3659349150120535&adurl=http://www.gilette.de]]></ClickThrough>
-                            <ClickTracking id="movad"><![CDATA[http://event.movad.de/c.ount?et=2&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&pos=[CLICKPOS]]]></ClickTracking>
+                            <ClickTracking id="movad"><![CDATA[http://event.movad.de/c.ount?et=2&ad=2&ci=112987221&c10=39637296021&c9=166172781&c11=in&ho=showroom&c8=11111&c7=26550861&c12=26749461&po=7&us=sim&t=1902645100&ps=[PODSEQUENCE]&pos=[CLICKPOS]]]></ClickTracking>
                             <ClickTracking id="3rdparty"><![CDATA[http://ad.71i.de/blind.gif?click_Gilette_20x1&t=1902645100&pos=[CLICKPOS]]]></ClickTracking>
                         </VideoClicks>
                         <MediaFiles>
