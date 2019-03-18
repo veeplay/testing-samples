@@ -5,7 +5,7 @@
         <Wrapper>
             <AdSystem>AdServer</AdSystem>
             <VASTAdTagURL>
-                https://httpstat.us/200?sleep=60000
+                https://veeplay.free.beeceptor.com/timeout
             </VASTAdTagURL>
             <Impression>
                 <URL id="myImpression">
