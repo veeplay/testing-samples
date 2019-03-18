@@ -3,10 +3,9 @@
     <Ad id="166172781-112987221-39637296021">
         <!-- 001 Video VAST 2.0 - Instream-Typ -->
         <Wrapper>
-            <Error>http://www.example.com/error</Error>
             <AdSystem>AdServer</AdSystem>
             <VASTAdTagURL>
-                https://raw.githubusercontent.com/veeplay/testing-samples/master/Veeplay/50TimeoutWrapper_1.xml
+                https://httpstat.us/200?sleep=60000
             </VASTAdTagURL>
             <Impression>
                 <URL id="myImpression">
