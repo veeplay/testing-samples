@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VAST version="2.0">
+    <Ad id="166172781-112987221-39637296021">
+        <!-- 001 Video VAST 2.0 - Instream-Typ -->
+        <Wrapper>
+            <AdSystem>AdServer</AdSystem>
+            <VASTAdTagURL>
+                https://raw.githubusercontent.com/veeplay/testing-samples/master/Veeplay/49InfiniteWrapper.xml
+            </VASTAdTagURL>
+            <Impression>
+                <URL id="myImpression">
+                    <![CDATA[http://www.primarysite.com/tracker?imp]]>
+                </URL>
+            </Impression>
+            <TrackingEvents>
+                <Tracking event="start">
+                    <URL id="adSimulator0">
+                        <![CDATA[http://www.secondaryadserver.com/ad/start]]>
+                    </URL>
+                </Tracking>
+                <Tracking event="midpoint">
+                    <URL id="adSimulator0">
+                        <![CDATA[http://www.secondaryadserver.com/ad/midpoint]]>
+                    </URL>
+                </Tracking>
+                <Tracking event="complete">
+                    <URL id="adSimulator0">
+                        <![CDATA[http://www.secondaryadserver.com/ad/complete]]>
+                    </URL>
+                </Tracking>
+            </TrackingEvents>
+        </Wrapper>
+    </Ad>
+</VAST>
