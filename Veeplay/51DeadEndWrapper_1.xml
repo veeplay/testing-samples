@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <VAST version="2.0">
+		<Error><![CDATA[http://www.secondaryadserver.com/ad/error]]></Error>
     <Ad id="166172781-112987221-39637296021">
         <!-- 001 Video VAST 2.0 - Instream-Typ -->
     </Ad>

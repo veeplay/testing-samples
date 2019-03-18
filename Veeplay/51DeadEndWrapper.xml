@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <VAST version="2.0">
+    <Error><![CDATA[http://www.primaryadserver.com/ad/error]]></Error>
     <Ad id="166172781-112987221-39637296021">
         <!-- 001 Video VAST 2.0 - Instream-Typ -->
 		<Wrapper>
@@ -15,17 +16,17 @@
 		   <TrackingEvents>
 				<Tracking event="start">
 				<URL id="adSimulator0">
-						  <![CDATA[http://www.secondaryadserver.com/ad/start]]>
+						  <![CDATA[http://www.primaryadserver.com/ad/start]]>
 						</URL>
 			</Tracking>
 			<Tracking event="midpoint">
 				<URL id="adSimulator0">
-						  <![CDATA[http://www.secondaryadserver.com/ad/midpoint]]>
+						  <![CDATA[http://www.primaryadserver.com/ad/midpoint]]>
 						</URL>
 			</Tracking>
 			<Tracking event="complete">
 						<URL id="adSimulator0">
-						  <![CDATA[http://www.secondaryadserver.com/ad/complete]]>
+						  <![CDATA[http://www.primaryadserver.com/ad/complete]]>
 						</URL>
 			</Tracking>
 		   </TrackingEvents>
