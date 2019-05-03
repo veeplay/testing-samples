@@ -72,7 +72,7 @@
                                 <Tracking event="creativeView"><![CDATA[http://t4.liverail.com/?metric=companion&pos=1&coid=135&pid=1331&nid=1331&oid=228&olid=2281331&cid=8455&tpcid=&vid=&amid=&cc=default&pp=&vi=0&vv=&sg=&tsg=&pmu=0&pau=0&psz=0&ctx=&tctx=&coty=7&adt=0&did=&buid=&scen=&mca=&mma=&mct=0&url=&trid=557ab61566cde4.13439483.vp.v1.1&bidf=0.00000&bids=0.00000&bidt=1&bidh=0&bidlaf=0&sdk=0&cb=3118.188.27.184.182.0&ver=1&w=&wy=&x=&y=&xy=]]></Tracking>
                               
                             </TrackingEvents>
-                            <CompanionClickThrough><![CDATA[http://t4.liverail.com/?metric=cclickthru&pos=1&coid=135&pid=1331&nid=1331&oid=228&olid=2281331&cid=8455&tpcid=&vid=&amid=&cc=default&pp=&vi=0&vv=&sg=&tsg=&pmu=0&pau=0&psz=0&ctx=&tctx=&coty=7&adt=0&did=&buid=&scen=&mca=&mma=&mct=0&url=&trid=557ab61566cde4.13439483.vp.v1.1&bidf=0.00000&bids=0.00000&bidt=1&bidh=0&bidlaf=0&sdk=0&cb=3118.188.27.184.182.0&ver=1&w=&wy=&x=&y=&xy=&redirect=http%3A%2F%2Fwww.liverail.com]]></CompanionClickThrough>
+                            <CompanionClickThrough><![CDATA[https://www.emag.ro/set-toate-icoanele-de-care-are-nevoie-o-biserica-82-de-icoane-icoane-individuale/pd/DQX30DBBM/]]></CompanionClickThrough>
                         </Companion>
         				<Companion width="300" height="250">
                             <StaticResource creativeType="image/jpeg"><![CDATA[http://cdn.liverail.com/adasset/228/8455/300x250.jpg]]></StaticResource>
@@ -80,7 +80,7 @@
                                 <Tracking event="creativeView"><![CDATA[http://t4.liverail.com/?metric=companion&pos=1&coid=135&pid=1331&nid=1331&oid=228&olid=2281331&cid=8455&tpcid=&vid=&amid=&cc=default&pp=&vi=0&vv=&sg=&tsg=&pmu=0&pau=0&psz=0&ctx=&tctx=&coty=7&adt=0&did=&buid=&scen=&mca=&mma=&mct=0&url=&trid=557ab61566cde4.13439483.vp.v1.1&bidf=0.00000&bids=0.00000&bidt=1&bidh=0&bidlaf=0&sdk=0&cb=3118.188.27.184.182.0&ver=1&w=&wy=&x=&y=&xy=]]></Tracking>
                               
                             </TrackingEvents>
-                            <CompanionClickThrough><![CDATA[http://t4.liverail.com/?metric=cclickthru&pos=1&coid=135&pid=1331&nid=1331&oid=228&olid=2281331&cid=8455&tpcid=&vid=&amid=&cc=default&pp=&vi=0&vv=&sg=&tsg=&pmu=0&pau=0&psz=0&ctx=&tctx=&coty=7&adt=0&did=&buid=&scen=&mca=&mma=&mct=0&url=&trid=557ab61566cde4.13439483.vp.v1.1&bidf=0.00000&bids=0.00000&bidt=1&bidh=0&bidlaf=0&sdk=0&cb=3118.188.27.184.182.0&ver=1&w=&wy=&x=&y=&xy=&redirect=http%3A%2F%2Fwww.liverail.com]]></CompanionClickThrough>
+                            <CompanionClickThrough><![CDATA[https://www.emag.ro/set-toate-icoanele-de-care-are-nevoie-o-biserica-82-de-icoane-icoane-individuale/pd/DQX30DBBM/]]></CompanionClickThrough>
                         </Companion>
     				</CompanionAds>
     			</Creative>
