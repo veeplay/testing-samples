@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DAAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
-   <Ad id="16:101">
+   <Ad id="16:101" sequence="1" conditionalAd="false" adType="audio">
       <InLine>
          <AdSystem version="3.0">instreamatic</AdSystem>
          <AdTitle>Audio Test without preview</AdTitle>
