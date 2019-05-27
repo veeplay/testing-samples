@@ -26,7 +26,7 @@
         }
       ]
     },
-    "afterVideoAdTapped": "doNothing",
+    "afterVideoAdTapped": "skipUnit",
     "countdown": {
       "text": "-w- Total ads: __total_ads__ Ad index: __ad_index__ noch __remaining__s"
     }
