@@ -114,7 +114,6 @@
                             <ClickTracking id="3rdparty"><![CDATA[]]></ClickTracking>
                         </VideoClicks>
                         <MediaFiles>
-                            <MediaFile delivery="progressive" bitrate="400" width="0" height="0" type="video/x-flv"><![CDATA[http://ad.71i.de/images/nestle/2014/107686/140306_Maggi_JellyPaprika_20s.flv]]></MediaFile>
                             <MediaFile delivery="progressive" bitrate="400" width="0" height="0" type="video/mp4"><![CDATA[https://s3.eu-central-1.amazonaws.com/com.veeplay.samples/ads/140306_Maggi_JellyPaprika_20s.mp4]]></MediaFile>
                         </MediaFiles>
                     </Linear>
