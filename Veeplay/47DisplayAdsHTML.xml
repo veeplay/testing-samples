@@ -21,74 +21,8 @@
 						<NonLinear height="50" width="300" minSuggestedDuration="00:00:15">
 							<HTMLResource>
 							   <![CDATA[
-							   <html xmlns="http://www.w3.org/1999/xhtml">
-								  <head>
-									<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-									<title>VAST 2.0 Video Ad with external companion ad example</title>
-										<script language="JavaScript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script>
-										<script language="JavaScript" src="http://admin.brightcove.com/js/APIModules_all.js"></script>
-										<script language="JavaScript"> 
-									// This JS function is called by the Video Cloud Player when it encounters Companion Ads
-									// in a VAST 2.0 response
-									function bcsyncroadblock(adXML){
-										var companionAds = getXMLDoc(adXML);
-										//Get the Iframe snippet
-										var companionAd = companionAds.getElementsByTagName('Companion')[0];
-										var iFrameAd = companionAd.getElementsByTagName('IFrameResource')[0].firstChild.nodeValue;
-										var companionAdDiv = document.getElementById("companionAd");
-
-										// Add the IFrame to the page
-										companionAdDiv.innerHTML = '<iframe src="' + iFrameAd + '"></iframe>';
-									 }
-
-									   // Loads adXML as XML.
-									   function getXMLDoc(pXML){
-											var adXML;
-											if (window.ActiveXObject){ //parses the XML for IE browsers
-											   adXML = new ActiveXObject("Microsoft.XMLDOM");
-											   adXML.async = false; adXML.loadXML(pXML);
-											} else //parses the XML for Mozilla browsers
-											if (window.XMLHttpRequest) {
-												adXML = (new DOMParser()).parseFromString(pXML, "text/xml");
-											}
-											return adXML;
-										}
-									</script>
-								 
-									<style type="text/css">
-									// CSS is used to place the Ad right next to the player.
-									#companionAd {
-									position:absolute;
-									top:120px;
-									left:520px;
-									width:300px;
-									height:250px;
-									border:dotted; }
-									</style>
-								  </head>
-								<body>
-
-								<!-- Start of Brightcove Player -->
-
-								<p>VAST video ad with an external companion Ad.</p>
-								<div style="display:none"> </div>
-								<!-- By use of this code snippet, I agree to the Brightcove Publisher T and C
-								found at http://corp.brightcove.com/legal/terms_publisher.cfm. -->
-
-								<object id="myExperience" class="BrightcoveExperience">
-								<param name="bgcolor" value="#FFFFFF" />
-								<param name="width" value="486" />
-								<param name="height" value="412" />
-								<param name="playerID" value="yourPlayerID" />
-								<param name="@videoPlayer" value="yourVideoID" />
-								<param name="publisherID" value="yourPublisherID"/>
-								<param name="isVid" value="true" /> </object>
-								<!-- End of Brightcove Player -->
-								<div id='companionAd'> An Ad will display here</div>
-								<!-- End of Brightcove Player -->
-								</body>
-								</html>
-							   ]]>
+<div id="mGGUID" align="left" style="_CLEARCSS_;cursor:pointer;height:120px;overflow:hidden;"> <img onmouseout="this.src='//c.gumgum.com/ads/com/gumgum/close/RM_29x31.png'" onmouseover="this.src='//c.gumgum.com/ads/com/gumgum/close/RMO_29x31.png'" src="//c.gumgum.com/ads/com/gumgum/close/RM_29x31.png" style="border:0;margin:0;padding:0;background-color:transparent;cursor:pointer;cursor:hand;position:absolute;top:28px;right:5px;width:29px;height:31px;z-index:1;" onclick="document.getElementById('mGGUID').style.display='none';"> <div align="left" id="adGGUID" style="text-align:left;width:100%;height:120px;position:absolute;overflow:hidden;margin:0px 0px 0px 0px;font:normal 0/120px arial; cursor:pointer;top:5px;"> <br style="display:none;" /> <style> #adGGUID, #adGGUID * {padding:0;margin:0;border:none;font:normal 0/117px arial;cursor:pointer} #hoGGUID {background:transparent url(http://c.gumgum.com/ads/com/gumgum/bg/trans.gif) no-repeat scroll 0 0;position:absolute; width: 100%; height: 120px; left: 0px; top: 0px;} #bgGGUID {height: 100%;margin-left: 0px;background: url(https://c.gumgum.com/ads/com/walt_disney_world/food_and_wine_q4_15/studio/00st_tile.png) repeat-x scroll 0px 0px;} #imGGUID {background-repeat:no-repeat; background-position: top left;height:100%;position:absolute;top:0px;left:50%;} #coGGUID {background-repeat:no-repeat; background-position: 0px -120px; display:none;position:absolute;height: 100%; left: 50%; top: 0px;} /* Multiple sizes*/ #mGGUID .spGGUID {background-image: url(https://c.gumgum.com/ads/com/walt_disney_world/food_and_wine_q4_15/studio/00st_600.png);width:600px;margin-left:-300px;} </style> <div id="imGGUID" class="spGGUID"> <img id="piGGUID" style="display:none" src="//c.gumgum.com/images/pixel.gif?GGUID" /> </div> <div id="coGGUID" class="spGGUID"> </div> <div id="bgGGUID" style="margin-left:0px;"> </div> <a id="hoGGUID" href="https://www.gumgum.com" target="_blank" onmouseover="document.getElementById('coGGUID').style.display='block';" onmouseout="document.getElementById('coGGUID').style.display='none';"> </a> </div> <img src="" style="display:none;visibility:hidden;" /> </div>
+]]>
 							 </HTMLResource>
 							<NonLinearClickThrough>http://www.appscend.com</NonLinearClickThrough>
 						</NonLinear>
