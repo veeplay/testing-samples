@@ -1,6 +1,6 @@
 	{
 		"content": [{
 			"url": "https://s3.eu-central-1.amazonaws.com/com.veeplay.samples/hls/sintel-h624/Sintel.2010.4k.m3u8",
-			"autoplay": true,
+			"autoplay": true
 		}]
 	}
