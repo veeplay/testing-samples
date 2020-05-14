@@ -1,0 +1,84 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<VAST version="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd">
+<Ad id="5ea6b747eda7ad42870bc836" sequence="1">
+<InLine>
+<AdSystem version="2.0">ANIVIEW</AdSystem>
+<AdTitle>
+<![CDATA[VeePlaydemo]]>
+</AdTitle>
+<Description>
+<![CDATA[]]>
+</Description>
+
+<Impression id="ANIVIEW">
+<![CDATA[https://track1.aniview.com/track?d=Chrome&cou=RO&cos=Linux&r=&rs=&sid=12493&t=1589455273&cip=188.27.67.217&sn=&tgt=5&osv=&bv=81.0&brn=Chrome&wi=-1&he=-1&app=&AV_PUBLISHERID=5d53c40328a0612a9c2b9afd&test=&aafaid=&proto=https&uid=c18b7970863915f5e28ebe15a42f3818&imid=a44bb1a77ac97c6436f5d71126add2c331478463296172315467&cha=0.05&cb=22197368002&d9=1000&asid=5ea6b747eda7ad42870bc836&pid=5d53c40328a0612a9c2b9afd&cid=5ea6b7683aaaf075546509e5&h=4d3944f4eb2aaef93e246748bdae640f1c1bee75&mc=VeePlaydemo&e=impression]]>
+</Impression>
+<Request id="ANIVIEW">
+<![CDATA[https://track1.aniview.com/track?d=Chrome&cou=RO&cos=Linux&r=&rs=&sid=12493&t=1589455273&cip=188.27.67.217&sn=&tgt=5&osv=&bv=81.0&brn=Chrome&wi=-1&he=-1&app=&AV_PUBLISHERID=5d53c40328a0612a9c2b9afd&test=&aafaid=&proto=https&uid=c18b7970863915f5e28ebe15a42f3818&imid=a44bb1a77ac97c6436f5d71126add2c331478463296172315467&cha=0.05&cb=22197368002&d9=1000&asid=5ea6b747eda7ad42870bc836&pid=5d53c40328a0612a9c2b9afd&cid=5ea6b7683aaaf075546509e5&h=4d3944f4eb2aaef93e246748bdae640f1c1bee75&mc=VeePlaydemo&e=request]]>
+</Request>
+<Creatives>
+<Creative sequence="1" AdID="">
+<Linear>
+<Duration>00:00:00</Duration>
+<TrackingEvents>
+<Tracking event="start">
+<![CDATA[https://track1.aniview.com/track?d=Chrome&cou=RO&cos=Linux&r=&rs=&sid=12493&t=1589455273&cip=188.27.67.217&sn=&tgt=5&osv=&bv=81.0&brn=Chrome&wi=-1&he=-1&app=&AV_PUBLISHERID=5d53c40328a0612a9c2b9afd&test=&aafaid=&proto=https&uid=c18b7970863915f5e28ebe15a42f3818&imid=a44bb1a77ac97c6436f5d71126add2c331478463296172315467&cha=0.05&cb=22197368002&d9=1000&asid=5ea6b747eda7ad42870bc836&pid=5d53c40328a0612a9c2b9afd&cid=5ea6b7683aaaf075546509e5&h=4d3944f4eb2aaef93e246748bdae640f1c1bee75&mc=VeePlaydemo&e=start]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[https://track1.aniview.com/track?d=Chrome&cou=RO&cos=Linux&r=&rs=&sid=12493&t=1589455273&cip=188.27.67.217&sn=&tgt=5&osv=&bv=81.0&brn=Chrome&wi=-1&he=-1&app=&AV_PUBLISHERID=5d53c40328a0612a9c2b9afd&test=&aafaid=&proto=https&uid=c18b7970863915f5e28ebe15a42f3818&imid=a44bb1a77ac97c6436f5d71126add2c331478463296172315467&cha=0.05&cb=22197368002&d9=1000&asid=5ea6b747eda7ad42870bc836&pid=5d53c40328a0612a9c2b9afd&cid=5ea6b7683aaaf075546509e5&h=4d3944f4eb2aaef93e246748bdae640f1c1bee75&mc=VeePlaydemo&e=firstQuartile&ad=[AV_ADDURATION]&vi=[AV_VIEWABILITY]]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[https://track1.aniview.com/track?d=Chrome&cou=RO&cos=Linux&r=&rs=&sid=12493&t=1589455273&cip=188.27.67.217&sn=&tgt=5&osv=&bv=81.0&brn=Chrome&wi=-1&he=-1&app=&AV_PUBLISHERID=5d53c40328a0612a9c2b9afd&test=&aafaid=&proto=https&uid=c18b7970863915f5e28ebe15a42f3818&imid=a44bb1a77ac97c6436f5d71126add2c331478463296172315467&cha=0.05&cb=22197368002&d9=1000&asid=5ea6b747eda7ad42870bc836&pid=5d53c40328a0612a9c2b9afd&cid=5ea6b7683aaaf075546509e5&h=4d3944f4eb2aaef93e246748bdae640f1c1bee75&mc=VeePlaydemo&e=midpoint&ad=[AV_ADDURATION]&vi=[AV_VIEWABILITY]]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[https://track1.aniview.com/track?d=Chrome&cou=RO&cos=Linux&r=&rs=&sid=12493&t=1589455273&cip=188.27.67.217&sn=&tgt=5&osv=&bv=81.0&brn=Chrome&wi=-1&he=-1&app=&AV_PUBLISHERID=5d53c40328a0612a9c2b9afd&test=&aafaid=&proto=https&uid=c18b7970863915f5e28ebe15a42f3818&imid=a44bb1a77ac97c6436f5d71126add2c331478463296172315467&cha=0.05&cb=22197368002&d9=1000&asid=5ea6b747eda7ad42870bc836&pid=5d53c40328a0612a9c2b9afd&cid=5ea6b7683aaaf075546509e5&h=4d3944f4eb2aaef93e246748bdae640f1c1bee75&mc=VeePlaydemo&e=thirdQuartile&ad=[AV_ADDURATION]&vi=[AV_VIEWABILITY]]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[https://track1.aniview.com/track?d=Chrome&cou=RO&cos=Linux&r=&rs=&sid=12493&t=1589455273&cip=188.27.67.217&sn=&tgt=5&osv=&bv=81.0&brn=Chrome&wi=-1&he=-1&app=&AV_PUBLISHERID=5d53c40328a0612a9c2b9afd&test=&aafaid=&proto=https&uid=c18b7970863915f5e28ebe15a42f3818&imid=a44bb1a77ac97c6436f5d71126add2c331478463296172315467&cha=0.05&cb=22197368002&d9=1000&asid=5ea6b747eda7ad42870bc836&pid=5d53c40328a0612a9c2b9afd&cid=5ea6b7683aaaf075546509e5&h=4d3944f4eb2aaef93e246748bdae640f1c1bee75&mc=VeePlaydemo&e=complete&ad=[AV_ADDURATION]&vi=[AV_VIEWABILITY]]]>
+</Tracking>
+<Tracking event="mute">
+<![CDATA[https://track1.aniview.com/track?d=Chrome&cou=RO&cos=Linux&r=&rs=&sid=12493&t=1589455273&cip=188.27.67.217&sn=&tgt=5&osv=&bv=81.0&brn=Chrome&wi=-1&he=-1&app=&AV_PUBLISHERID=5d53c40328a0612a9c2b9afd&test=&aafaid=&proto=https&uid=c18b7970863915f5e28ebe15a42f3818&imid=a44bb1a77ac97c6436f5d71126add2c331478463296172315467&cha=0.05&cb=22197368002&d9=1000&asid=5ea6b747eda7ad42870bc836&pid=5d53c40328a0612a9c2b9afd&cid=5ea6b7683aaaf075546509e5&h=4d3944f4eb2aaef93e246748bdae640f1c1bee75&mc=VeePlaydemo&e=mute]]>
+</Tracking>
+<Tracking event="unmute">
+<![CDATA[https://track1.aniview.com/track?d=Chrome&cou=RO&cos=Linux&r=&rs=&sid=12493&t=1589455273&cip=188.27.67.217&sn=&tgt=5&osv=&bv=81.0&brn=Chrome&wi=-1&he=-1&app=&AV_PUBLISHERID=5d53c40328a0612a9c2b9afd&test=&aafaid=&proto=https&uid=c18b7970863915f5e28ebe15a42f3818&imid=a44bb1a77ac97c6436f5d71126add2c331478463296172315467&cha=0.05&cb=22197368002&d9=1000&asid=5ea6b747eda7ad42870bc836&pid=5d53c40328a0612a9c2b9afd&cid=5ea6b7683aaaf075546509e5&h=4d3944f4eb2aaef93e246748bdae640f1c1bee75&mc=VeePlaydemo&e=unmute]]>
+</Tracking>
+<Tracking event="pause">
+<![CDATA[https://track1.aniview.com/track?d=Chrome&cou=RO&cos=Linux&r=&rs=&sid=12493&t=1589455273&cip=188.27.67.217&sn=&tgt=5&osv=&bv=81.0&brn=Chrome&wi=-1&he=-1&app=&AV_PUBLISHERID=5d53c40328a0612a9c2b9afd&test=&aafaid=&proto=https&uid=c18b7970863915f5e28ebe15a42f3818&imid=a44bb1a77ac97c6436f5d71126add2c331478463296172315467&cha=0.05&cb=22197368002&d9=1000&asid=5ea6b747eda7ad42870bc836&pid=5d53c40328a0612a9c2b9afd&cid=5ea6b7683aaaf075546509e5&h=4d3944f4eb2aaef93e246748bdae640f1c1bee75&mc=VeePlaydemo&e=pause]]>
+</Tracking>
+<Tracking event="resume">
+<![CDATA[https://track1.aniview.com/track?d=Chrome&cou=RO&cos=Linux&r=&rs=&sid=12493&t=1589455273&cip=188.27.67.217&sn=&tgt=5&osv=&bv=81.0&brn=Chrome&wi=-1&he=-1&app=&AV_PUBLISHERID=5d53c40328a0612a9c2b9afd&test=&aafaid=&proto=https&uid=c18b7970863915f5e28ebe15a42f3818&imid=a44bb1a77ac97c6436f5d71126add2c331478463296172315467&cha=0.05&cb=22197368002&d9=1000&asid=5ea6b747eda7ad42870bc836&pid=5d53c40328a0612a9c2b9afd&cid=5ea6b7683aaaf075546509e5&h=4d3944f4eb2aaef93e246748bdae640f1c1bee75&mc=VeePlaydemo&e=resume]]>
+</Tracking>
+<Tracking event="fullscreen">
+<![CDATA[https://track1.aniview.com/track?d=Chrome&cou=RO&cos=Linux&r=&rs=&sid=12493&t=1589455273&cip=188.27.67.217&sn=&tgt=5&osv=&bv=81.0&brn=Chrome&wi=-1&he=-1&app=&AV_PUBLISHERID=5d53c40328a0612a9c2b9afd&test=&aafaid=&proto=https&uid=c18b7970863915f5e28ebe15a42f3818&imid=a44bb1a77ac97c6436f5d71126add2c331478463296172315467&cha=0.05&cb=22197368002&d9=1000&asid=5ea6b747eda7ad42870bc836&pid=5d53c40328a0612a9c2b9afd&cid=5ea6b7683aaaf075546509e5&h=4d3944f4eb2aaef93e246748bdae640f1c1bee75&mc=VeePlaydemo&e=fullscreen]]>
+</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickThrough>
+<![CDATA[https://track1.aniview.com/click?d=Chrome&cou=RO&cos=Linux&r=&rs=&sid=12493&t=1589455273&cip=188.27.67.217&sn=&tgt=5&osv=&bv=81.0&brn=Chrome&wi=-1&he=-1&app=&AV_PUBLISHERID=5d53c40328a0612a9c2b9afd&test=&aafaid=&proto=https&uid=c18b7970863915f5e28ebe15a42f3818&imid=a44bb1a77ac97c6436f5d71126add2c331478463296172315467&cha=0.05&cb=22197368002&d9=1000&asid=5ea6b747eda7ad42870bc836&pid=5d53c40328a0612a9c2b9afd&cid=5ea6b7683aaaf075546509e5&h=4d3944f4eb2aaef93e246748bdae640f1c1bee75&e=click&mc=VeePlaydemo&_redirect=http%3A%2F%2Faniview.com]]>
+</ClickThrough>
+</VideoClicks>
+<MediaFiles>
+<MediaFile id="1" delivery="progressive" bitrate="1500" type="video/mp4" width="-1" height="-1">
+<![CDATA[https://play.aniview.com/5d53c40328a0612a9c2b9afd/5dc3f1e528a06155ef59b793/DancingFeet.mp4]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+<Extensions>
+<Extension type="ANIVIEW">
+
+<AdServingData>
+<Request><![CDATA[https://track1.aniview.com/track?d=Chrome&cou=RO&cos=Linux&r=&rs=&sid=12493&t=1589455273&cip=188.27.67.217&sn=&tgt=5&osv=&bv=81.0&brn=Chrome&wi=-1&he=-1&app=&AV_PUBLISHERID=5d53c40328a0612a9c2b9afd&test=&aafaid=&proto=https&uid=c18b7970863915f5e28ebe15a42f3818&imid=a44bb1a77ac97c6436f5d71126add2c331478463296172315467&cha=0.05&cb=22197368002&d9=1000&asid=5ea6b747eda7ad42870bc836&pid=5d53c40328a0612a9c2b9afd&cid=5ea6b7683aaaf075546509e5&h=4d3944f4eb2aaef93e246748bdae640f1c1bee75&mc=VeePlaydemo&e=request]]></Request>
+
+<Asid><![CDATA[5ea6b747eda7ad42870bc836]]></Asid>
+<Nasid><![CDATA[5ea6b747eda7ad42870bc836]]></Nasid>
+<Cpm><![CDATA[0]]></Cpm>
+<PlayerSettings><![CDATA[{"vpp":1,"fp":0,"maxRPM":0,"res": 0}]]></PlayerSettings>
+</AdServingData>
+</Extension>
+</Extensions>
+</InLine>
+</Ad>
+</VAST>
