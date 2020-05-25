@@ -17,9 +17,9 @@
 <![CDATA[https://track1.aniview.com/track?d=Chrome&cou=RO&cos=Linux&r=&rs=&sid=12493&t=1589455273&cip=188.27.67.217&sn=&tgt=5&osv=&bv=81.0&brn=Chrome&wi=-1&he=-1&app=&AV_PUBLISHERID=5d53c40328a0612a9c2b9afd&test=&aafaid=&proto=https&uid=c18b7970863915f5e28ebe15a42f3818&imid=a44bb1a77ac97c6436f5d71126add2c331478463296172315467&cha=0.05&cb=22197368002&d9=1000&asid=5ea6b747eda7ad42870bc836&pid=5d53c40328a0612a9c2b9afd&cid=5ea6b7683aaaf075546509e5&h=4d3944f4eb2aaef93e246748bdae640f1c1bee75&mc=VeePlaydemo&e=request]]>
 </Request>
 <Creatives>
-<Creative sequence="1" AdID="">
+<Creative sequence="1" AdID="abcd">
 <Linear>
-<Duration>00:00:00</Duration>
+<Duration>00:00:10</Duration>
 <TrackingEvents>
 <Tracking event="start">
 <![CDATA[https://track1.aniview.com/track?d=Chrome&cou=RO&cos=Linux&r=&rs=&sid=12493&t=1589455273&cip=188.27.67.217&sn=&tgt=5&osv=&bv=81.0&brn=Chrome&wi=-1&he=-1&app=&AV_PUBLISHERID=5d53c40328a0612a9c2b9afd&test=&aafaid=&proto=https&uid=c18b7970863915f5e28ebe15a42f3818&imid=a44bb1a77ac97c6436f5d71126add2c331478463296172315467&cha=0.05&cb=22197368002&d9=1000&asid=5ea6b747eda7ad42870bc836&pid=5d53c40328a0612a9c2b9afd&cid=5ea6b7683aaaf075546509e5&h=4d3944f4eb2aaef93e246748bdae640f1c1bee75&mc=VeePlaydemo&e=start]]>
@@ -58,7 +58,7 @@
 </ClickThrough>
 </VideoClicks>
 <MediaFiles>
-<MediaFile id="1" delivery="progressive" bitrate="1500" type="video/mp4" width="-1" height="-1">
+<MediaFile id="1" delivery="progressive" bitrate="1500" type="video/mp4" width="1920" height="1080">
 <![CDATA[https://play.aniview.com/5d53c40328a0612a9c2b9afd/5dc3f1e528a06155ef59b793/DancingFeet.mp4]]>
 </MediaFile>
 </MediaFiles>
