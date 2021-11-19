@@ -14,7 +14,8 @@
       "preContent": [
         {
           "urls": [
-            "https://raw.githubusercontent.com/veeplay/testing-samples/master/Veeplay/51DeadEndWrapper.xml"
+            "https://raw.githubusercontent.com/veeplay/testing-samples/master/Veeplay/Ads/140206_Opel_GnT_Opener_7Sek.xml",
+            "https://raw.githubusercontent.com/veeplay/testing-samples/master/Veeplay/Ads/010314_Ferrero_TT_CU_SWB_Mix2_1171313_15s.xml"
           ]
         }
       ]
