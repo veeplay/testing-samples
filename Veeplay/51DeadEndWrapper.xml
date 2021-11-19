@@ -5,6 +5,8 @@
         <!-- 001 Video VAST 2.0 - Instream-Typ -->
 		<Wrapper>
             <AdSystem>AdServer</AdSystem>
+			<Error><![CDATA[http://www.primaryadserver.com/ad/error1]]></Error>
+			<Error><![CDATA[http://www.primaryadserver.com/ad/error2]]></Error>
             <VASTAdTagURL>
                 https://raw.githubusercontent.com/veeplay/testing-samples/master/Veeplay/51DeadEndWrapper_1.xml
             </VASTAdTagURL>
