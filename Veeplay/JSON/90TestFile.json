@@ -1,0 +1,17 @@
+	{
+			"content": 
+			[{
+				"url": "https://s3.eu-central-1.amazonaws.com/com.veeplay.samples/progressive/Sintel.2010.4kHD-MP4.mp4",
+				"autoplay": true
+			}],
+			"ads": {
+				"adBreaks": 
+				{
+					"preContent": 
+					[{
+						"urls": ["https://pastebin.com/raw/jFHXA5eY"]
+					 }				
+					]
+				}
+			}
+		}
